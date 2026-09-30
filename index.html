@@ -1,0 +1,79 @@
+<!DOCTYPE html>
+<html lang="zh-Hans">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<title>2026年10月新番导航 · 日本动画秋季番组一览</title>
+<meta name="description" content="2026年10月（秋季）日本TV动画、网络动画、剧场版新番信息导航：首播日期、播出时间（JST）、制作公司、简介与官网链接。">
+<link rel="icon" href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'><text y='.9em' font-size='90'>🍁</text></svg>">
+<link rel="stylesheet" href="style.css">
+<script>try{var t=localStorage.getItem('theme');if(t)document.documentElement.dataset.theme=t}catch(e){}</script>
+</head>
+<body>
+<header class="hero">
+  <div class="hero-inner">
+    <div class="top-row">
+      <span class="badge">🍁 2026 秋 · 10月新番</span>
+      <button id="themeBtn" class="icon-btn" title="切换深色/浅色" aria-label="切换主题">◐</button>
+    </div>
+    <h1>2026年10月新番导航</h1>
+    <p class="sub">日本动画秋季番组一览 · 播出时间均为日本标准时间（JST, UTC+9）</p>
+    <div class="stats" id="stats"></div>
+  </div>
+</header>
+
+<div class="toolbar" id="toolbar">
+  <div class="toolbar-inner">
+    <div class="row1">
+      <div class="search"><span>🔍</span><input id="q" type="search" placeholder="搜索标题（中文 / 日文 / 罗马音）、制作公司、声优…" autocomplete="off"><button id="clearQ" class="clear" title="清除" hidden>×</button></div>
+      <div class="tabs" role="tablist">
+        <button class="tab active" data-view="grid" role="tab">卡片</button>
+        <button class="tab" data-view="week" role="tab">周表</button>
+      </div>
+    </div>
+    <div class="row2">
+      <label>星期<select id="fWeekday"></select></label>
+      <label>类型<select id="fKind">
+        <option value="">全部</option><option value="new">新作</option><option value="seq">续作</option>
+      </select></label>
+      <label>形式<select id="fFormat"></select></label>
+      <label>题材<select id="fGenre"></select></label>
+      <label>排序<select id="sort">
+        <option value="date-asc">首播日期 ↑</option><option value="date-desc">首播日期 ↓</option>
+        <option value="pop">人气（AniList）</option><option value="title">标题（五十音）</option>
+      </select></label>
+      <button id="reset" class="ghost">重置</button>
+      <span id="count" class="count"></span>
+    </div>
+  </div>
+</div>
+
+<main>
+  <section id="gridView"><div id="grid" class="grid"></div><div id="empty" class="empty" hidden>没有符合条件的作品 (´・ω・`)</div></section>
+  <section id="weekView" hidden>
+    <p class="hint">按日本电视台惯例，凌晨时段（0:00–4:59）算作前一天深夜，例如「周三 24:30」实际为周四 0:30。仅显示当前筛选结果；点击条目查看详情。</p>
+    <div id="week" class="week"></div>
+    <div id="weekExtra"></div>
+  </section>
+</main>
+
+<div id="modal" class="modal" hidden>
+  <div class="sheet" role="dialog" aria-modal="true" aria-labelledby="mTitle">
+    <button class="close" id="mClose" aria-label="关闭">×</button>
+    <div id="mBody"></div>
+  </div>
+</div>
+
+<footer>
+  <p><strong>数据来源：</strong>
+    <a href="https://anilist.co" target="_blank" rel="noopener">AniList</a>（GraphQL API：标题、封面、播出时间、制作公司、题材、原作类型、声优等）；
+    <a href="https://bgm.tv" target="_blank" rel="noopener">Bangumi 番组计划</a>（中文译名、中文简介、电视台、STAFF）；
+    各作品官方网站（链接）。封面图版权归各作品权利方所有，此处仅作信息导航之用。</p>
+  <p><strong>数据采集日期：2026-09-30</strong>。播出安排以官方及电视台公布为准，可能有变动；「待定」表示采集时未获得该字段数据。
+     AniList 与 Bangumi 首播日期不一致的作品，会在详情中标注。MyAnimeList/Jikan 接口在采集时不可用，未使用。</p>
+  <p class="small">本站为静态页面，无需联网服务，可直接打开 index.html（封面已本地保存）。</p>
+</footer>
+<script src="data.js"></script>
+<script src="app.js"></script>
+</body>
+</html>
