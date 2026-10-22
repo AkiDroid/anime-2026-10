@@ -1,4 +1,4 @@
-window.ANIME_META={"collectedAt": "2026-10-05", "count": 79};
+window.ANIME_META={"collectedAt": "2026-10-22", "count": 83};
 window.ANIME_DATA=[
  {
   "id": 199068,
@@ -24,14 +24,16 @@ window.ANIME_DATA=[
   "color": "#d61a1a",
   "status": "RELEASING",
   "episodes": 13,
-  "duration": 23,
+  "duration": 24,
   "genres": [
    "动作",
    "喜剧",
    "运动"
   ],
   "source": "漫画改编",
-  "studios": [],
+  "studios": [
+   "M.S.C"
+  ],
   "isSequel": true,
   "prequel": "新テニスの王子様 U-17 WORLD CUP SEMIFINAL",
   "tv": "テレビ東京",
@@ -93,8 +95,8 @@ window.ANIME_DATA=[
   "synopsis": "2024年に放送の「U-17 WORLD CUP SEMIFINAL」では、日本代表とドイツ代表による熱戦が描かれた「新テニスの王子様」。「U-17 WORLD CUP 決勝メンバー決定戦」では、決勝戦となるスペイン代表との試合に向けて、出場メンバーを決める日本代表内での戦いが展開される。",
   "synopsisLang": "ja",
   "synopsisSrc": "Bangumi 番组计划",
-  "score": null,
-  "popularity": 1160,
+  "score": 53,
+  "popularity": 1456,
   "coverRemote": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx199068-2afNaytl50Ko.png"
  },
  {
@@ -121,7 +123,7 @@ window.ANIME_DATA=[
   "color": "#f19328",
   "status": "RELEASING",
   "episodes": 12,
-  "duration": null,
+  "duration": 23,
   "genres": [
    "动作",
    "冒险",
@@ -144,6 +146,18 @@ window.ANIME_DATA=[
    {
     "site": "Amazon Prime Video",
     "url": "https://www.amazon.com/gp/video/detail/B0HLCHQS6T"
+   },
+   {
+    "site": "iQ",
+    "url": "https://www.iq.com/album/1v4ebkyoz21"
+   },
+   {
+    "site": "YouTube",
+    "url": "https://www.youtube.com/playlist?list=PLcSpWjb7H0lk"
+   },
+   {
+    "site": "Bilibili TV",
+    "url": "https://www.bilibili.tv/en/media/2432099"
    }
   ],
   "official": "https://tenken-anime.com/",
@@ -181,14 +195,18 @@ window.ANIME_DATA=[
    {
     "role": "リッチ",
     "cv": "速水奨"
+   },
+   {
+    "role": "ステファン",
+    "cv": "井澤詩織"
    }
   ],
   "synopsisJa": "「名無し」の奴隷として虐げられていた黒猫族の少女フランは、「知性を持つ武器」である剣――師匠と出会い、その装備者となった。\n城砦都市アレッサの冒険者ギルドに所属したフランは、数々のクエストをこなしながら冒険者として名を上げていく。\n強さの果てにある「進化」を目指すフラン。彼女の「願い」を叶えたい師匠は、次なる目的地を港町ダーズと定めた。\nその道中、天空に浮かぶ「浮遊島」を発見した師匠とフランは、浮遊島の完全攻略を目指す死霊術師ジャン・ドゥービーと出会う。彼の依頼を受け、ともに浮遊島の迷宮に挑むことになるのだが……。\nそこは死霊魔獣が蠢く凶悪な迷宮だった！\n猫耳少女と親バカな剣の新たな冒険が始まる!!",
   "synopsis": "原本作为无名奴隶遭受虐待的黑猫族少女芙兰，遇到拥有智慧的剑，拜他为师，并成为他的装备者。加入冒险者公会的芙兰，在完成多个任务的过程中，逐渐提升声望。为了追求强大的终点「进化」，芙兰不断努力，渴望帮她实现愿望的师父，将下一个目的地定为了港口都市达兹。师父和芙兰在前往该处的途中，发现「浮游岛」，并遇到目标攻陷浮游岛的死灵术师让·杜比。两人接受他的委托，和他一起挑战浮游岛的迷宫，但那里竟然是死灵魔兽蠢蠢欲动的凶恶迷宫！猫耳少女和爱女心切的魔剑的新冒险，即将开始！",
   "synopsisLang": "zh",
   "synopsisSrc": "Bangumi 番组计划",
-  "score": 74,
-  "popularity": 44699,
+  "score": 75,
+  "popularity": 51203,
   "coverRemote": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx159042-GGFwlDskc5vR.png"
  },
  {
@@ -244,7 +262,7 @@ window.ANIME_DATA=[
   "synopsisLang": "en",
   "synopsisSrc": "AniList（英文）",
   "score": null,
-  "popularity": 78,
+  "popularity": 119,
   "coverRemote": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx217624-Cwkze5dZ5txL.jpg"
  },
  {
@@ -271,7 +289,7 @@ window.ANIME_DATA=[
   "color": "#f1d678",
   "status": "RELEASING",
   "episodes": 12,
-  "duration": null,
+  "duration": 24,
   "genres": [
    "剧情",
    "日常"
@@ -289,6 +307,10 @@ window.ANIME_DATA=[
    {
     "site": "Crunchyroll",
     "url": "https://crunchyroll.com/series/GT00384001/fx-fighter-kurumi-chan"
+   },
+   {
+    "site": "YouTube",
+    "url": "https://www.youtube.com/playlist?list=PLTQxh5nM9A2w"
    }
   ],
   "official": "https://fxkurumi-info.com/",
@@ -327,8 +349,8 @@ window.ANIME_DATA=[
   "synopsis": "大学生福贺久留美终于迎来了梦寐以求的FX（外汇保证金交易）出道。她的目标是夺回过世母亲因为FX赔掉的2000万日圆。「看我轻松把它赚回来！」发下豪语的她，一头栽进了这个随时从天堂跌入地狱的世界。未实现亏损、强制平仓、不能平复的心情…… 即便如此，她还是想买、想卖、想赚钱！久留美究竟能不能在这疯狂的世界中存活下来呢？",
   "synopsisLang": "zh",
   "synopsisSrc": "Bangumi 番组计划",
-  "score": 69,
-  "popularity": 11156,
+  "score": 68,
+  "popularity": 17105,
   "coverRemote": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx206401-8cAebkI0i8BA.png"
  },
  {
@@ -355,7 +377,7 @@ window.ANIME_DATA=[
   "color": "#e4a143",
   "status": "RELEASING",
   "episodes": 12,
-  "duration": null,
+  "duration": 25,
   "genres": [
    "喜剧",
    "剧情",
@@ -419,11 +441,11 @@ window.ANIME_DATA=[
    }
   ],
   "synopsisJa": null,
-  "synopsis": "Koyuki, the isolated girl; Miki, the former school idol; Minato, the guy with no concept of personal space; and Yota, the gentle basketball player. Clumsy, frustrating, yet deeply endearing — this coming-of-age ensemble drama of crisscrossing hearts marches on.\n\nAs they grow closer, Koyuki and Minato begin to develop feelings for each other that go beyond mere friendship. Meanwhile, Yota finally confesses to Miki the feelings he's harbored for years. Some speak their hearts while others keep their emotions hidden, causing their paths — and their feelings for one another — to continuously cross and pass by…",
+  "synopsis": "Koyuki, the isolated girl; Miki, the former school idol; Minato, the guy with no concept of personal space; and Youta, the gentle basketball player. Clumsy, frustrating, yet deeply endearing — this coming-of-age ensemble drama of crisscrossing hearts marches on.\n\nAs they grow closer, Koyuki and Minato begin to develop feelings for each other that go beyond mere friendship. Meanwhile, Youta finally confesses to Miki the feelings he's harbored for years. Some speak their hearts while others keep their emotions hidden, causing their paths — and their feelings for one another — to continuously cross and pass by…",
   "synopsisLang": "en",
   "synopsisSrc": "AniList（英文）",
-  "score": 82,
-  "popularity": 27758,
+  "score": 81,
+  "popularity": 35376,
   "coverRemote": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx213805-Nokui3uWlIlw.png"
  },
  {
@@ -465,7 +487,12 @@ window.ANIME_DATA=[
   "tv": null,
   "tvOther": null,
   "bgmPlatform": null,
-  "streaming": [],
+  "streaming": [
+   {
+    "site": "YouTube",
+    "url": "https://www.youtube.com/playlist?list=PLcnM8O8NMtiU"
+   }
+  ],
   "official": "https://animationid.com/kizudarakeseijo2/",
   "twitter": "https://x.com/animekizudarake",
   "staff": {
@@ -504,8 +531,8 @@ window.ANIME_DATA=[
   "synopsis": "被鄙视为「瑕疵圣女」，甚至遭所信任的亲友阿莉安背叛的露雅，运用「施虐能力」，与第二王子斯温一同踏上了复仇之路。舞台转移至王国的庆典——创立祭。被选为「蔷薇公主」的露雅，再次与阿莉安正面对峙。不久后，与她自身过去的谜团浮出水面，促使她亲手揭开家族死亡背后的真相。「我所承受的痛苦，必将以牙还牙。」在模糊的过去与现在之间，露雅究竟会做出什么抉择呢？",
   "synopsisLang": "zh",
   "synopsisSrc": "Bangumi 番组计划",
-  "score": null,
-  "popularity": 1599,
+  "score": 56,
+  "popularity": 2144,
   "coverRemote": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b212144-9qJMcEdy4Xbo.jpg"
  },
  {
@@ -580,7 +607,7 @@ window.ANIME_DATA=[
   "synopsisLang": "ja",
   "synopsisSrc": "Bangumi 番组计划",
   "score": null,
-  "popularity": 18,
+  "popularity": 49,
   "coverRemote": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx217577-bYfoFScj9Pwi.jpg"
  },
  {
@@ -658,7 +685,7 @@ window.ANIME_DATA=[
   "synopsisLang": "ja",
   "synopsisSrc": "Bangumi 番组计划",
   "score": null,
-  "popularity": 386,
+  "popularity": 528,
   "coverRemote": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx194207-7n4M6jOwLdcF.jpg"
  },
  {
@@ -685,7 +712,7 @@ window.ANIME_DATA=[
   "color": "#5d93f1",
   "status": "RELEASING",
   "episodes": 12,
-  "duration": null,
+  "duration": 23,
   "genres": [
    "冒险",
    "奇幻"
@@ -751,8 +778,8 @@ window.ANIME_DATA=[
   "synopsis": "Zabelle Sheran Sharm, queen of Bonta and guardian of the Ebony Dofus, dreams of uniting the nations of the World of Twelve. But her tyrannical reign and thirst for power have plunged the lands into misery. A prophecy, proclaimed by her son Shedar, foretells her fall and that a boy with azure blue eyes will bring an end to her power.\n\nThis boy is Welsh, a young cook from Brassica. His life is upended when a black dragon, Asalar, attacks his village. To save his world, Welsh must find the Ivory Dofus, the only artifact capable of defeating Zabelle. Accompanied by his faithful friend Béchamel and the adventurers Joris and Khan Karkass, Welsh discovers his true origins and embraces his fate as a hero. Together, they must face unsuspected dangers to free the World of Twelve from Zabelle's clutches.",
   "synopsisLang": "en",
   "synopsisSrc": "Bangumi 番组计划",
-  "score": null,
-  "popularity": 1298,
+  "score": 51,
+  "popularity": 2536,
   "coverRemote": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx216895-Ofx4FSKFa4CQ.jpg"
  },
  {
@@ -779,7 +806,7 @@ window.ANIME_DATA=[
   "color": "#e4a128",
   "status": "RELEASING",
   "episodes": 12,
-  "duration": null,
+  "duration": 24,
   "genres": [
    "剧情",
    "悬疑"
@@ -845,7 +872,7 @@ window.ANIME_DATA=[
   "synopsisLang": "ja",
   "synopsisSrc": "Bangumi 番组计划",
   "score": 85,
-  "popularity": 86261,
+  "popularity": 102485,
   "coverRemote": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx195516-MJpUZlOberqH.jpg"
  },
  {
@@ -868,11 +895,11 @@ window.ANIME_DATA=[
   "weekday": 4,
   "bgmDate": "2026-10-02",
   "dateConflict": false,
-  "cover": "images/204650.jpg",
-  "color": "#5daee4",
+  "cover": "images/204650.png",
+  "color": "#4393e4",
   "status": "RELEASING",
-  "episodes": 24,
-  "duration": null,
+  "episodes": 12,
+  "duration": 24,
   "genres": [
    "动作",
    "悬疑",
@@ -895,6 +922,18 @@ window.ANIME_DATA=[
    {
     "site": "Crunchyroll",
     "url": "https://www.crunchyroll.com/series/GP5HJ84D2/tougen-anki"
+   },
+   {
+    "site": "Bilibili TV",
+    "url": "https://www.bilibili.tv/en/media/2431878"
+   },
+   {
+    "site": "Amazon Prime Video",
+    "url": "https://www.amazon.com/dp/B0FCM3YGCQ"
+   },
+   {
+    "site": "Netflix",
+    "url": "https://www.netflix.com/title/81969861"
    }
   ],
   "official": "https://tougenanki-anime.com/",
@@ -932,9 +971,9 @@ window.ANIME_DATA=[
   "synopsis": "「お前は鬼の血を継いでいる……」一部の人間に脈々と受け継がれる「鬼」と「桃太郎」の血。はるか昔、自らの凶暴性を自覚するが故にひっそりと暮らしていた「鬼」だったが、そこに「桃太郎」が攻め入った。それぞれが「桃太郎機関」「鬼機関」を組織し、抗争すること何千年。突然の“桃太郎”の襲撃で、自分が“鬼”だと知る主人公・一ノ瀬四季。自らの血に棲む“鬼”と出逢った四季の宿命とは───。───新世代ダークヒーロー鬼譚、ここに開幕！",
   "synopsisLang": "ja",
   "synopsisSrc": "Bangumi 番组计划",
-  "score": 70,
-  "popularity": 14518,
-  "coverRemote": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx204650-nvK5CuG60WGY.jpg"
+  "score": 71,
+  "popularity": 18914,
+  "coverRemote": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx204650-cAQOzQ84Lwk8.png"
  },
  {
   "id": 178083,
@@ -943,7 +982,7 @@ window.ANIME_DATA=[
   "anilistUrl": "https://anilist.co/anime/178083",
   "ja": "東京リベンジャーズ 三天戦争編",
   "romaji": "Tokyo Revengers: Santen Sensou-hen",
-  "en": null,
+  "en": "Tokyo Revengers: War of the Three Titans Arc",
   "zh": "东京复仇者 三天战争篇",
   "format": "TV动画",
   "fmtKey": "TV",
@@ -980,6 +1019,10 @@ window.ANIME_DATA=[
    {
     "site": "YouTube",
     "url": "https://www.youtube.com/@animetoman"
+   },
+   {
+    "site": "Hulu",
+    "url": "https://www.hulu.com/series/1a195a35-e19c-4e36-b609-3b1c451f6ce4"
    }
   ],
   "official": "https://tokyo-revengers-anime.com/",
@@ -1026,7 +1069,7 @@ window.ANIME_DATA=[
   "synopsisLang": "ja",
   "synopsisSrc": "Bangumi 番组计划",
   "score": 76,
-  "popularity": 29682,
+  "popularity": 35883,
   "coverRemote": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx178083-bg7pg6TCHwtG.jpg"
  },
  {
@@ -1049,11 +1092,11 @@ window.ANIME_DATA=[
   "weekday": 5,
   "bgmDate": "2026-10-03",
   "dateConflict": false,
-  "cover": "images/216557.png",
-  "color": "#f1e443",
+  "cover": "images/216557.jpg",
+  "color": "#f1e450",
   "status": "RELEASING",
   "episodes": 12,
-  "duration": null,
+  "duration": 24,
   "genres": [
    "喜剧",
    "科幻"
@@ -1122,13 +1165,13 @@ window.ANIME_DATA=[
   "synopsis": "―我輩はケロロ軍曹であります！\n地球を侵略するため宇宙からやってきたケロン星人「ケロロ軍曹」は、\n日向家に潜入していたところを中学生の男の子「日向冬樹」とその姉「日向夏美」に捕獲されてしまう。\nケロン軍の本隊から見放され、地球に取り残されてしまったケロロ軍曹は、\nオカルト好きな冬樹と「お友だち」になり、日向家に正式配属という名の居候をさせてもらうことに。\n地球で充実した日々（？）を過ごしながらも侵略は諦めていないケロロ軍曹。\n彼の仲間と冬樹たち地球人を巻き込んだ、愉快で非日常な物語が始まる！",
   "synopsisLang": "ja",
   "synopsisSrc": "Bangumi 番组计划",
-  "score": 54,
-  "popularity": 1318,
-  "coverRemote": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx216557-9CXz04CEmXOi.png"
+  "score": 57,
+  "popularity": 1812,
+  "coverRemote": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx216557-b72dAqbVEDO7.jpg"
  },
  {
   "id": 214968,
-  "malId": null,
+  "malId": 64789,
   "bgmId": 694622,
   "anilistUrl": "https://anilist.co/anime/214968",
   "ja": "ねずみくんのチョッキ (TV) 第2期",
@@ -1186,7 +1229,7 @@ window.ANIME_DATA=[
   "synopsisLang": "en",
   "synopsisSrc": "AniList（英文）",
   "score": null,
-  "popularity": 48,
+  "popularity": 64,
   "coverRemote": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx214968-rrPSP2nKF40C.jpg"
  },
  {
@@ -1261,7 +1304,7 @@ window.ANIME_DATA=[
   "synopsisLang": "ja",
   "synopsisSrc": "Bangumi 番组计划",
   "score": null,
-  "popularity": 272,
+  "popularity": 329,
   "coverRemote": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx209709-Wz8BKL1fm5MC.png"
  },
  {
@@ -1288,7 +1331,7 @@ window.ANIME_DATA=[
   "color": "#e46b5d",
   "status": "RELEASING",
   "episodes": 20,
-  "duration": null,
+  "duration": 25,
   "genres": [
    "喜剧",
    "奇幻",
@@ -1305,8 +1348,8 @@ window.ANIME_DATA=[
   "bgmPlatform": null,
   "streaming": [
    {
-    "site": "Prime Video",
-    "url": "https://www.primevideo.com/detail/0MWCE6QKWI8NTMW0R53A91T2HY"
+    "site": "Amazon Prime Video",
+    "url": "https://www.amazon.com/dp/B0HG6N5R36"
    }
   ],
   "official": "https://www.nhk-character.com/chara/marronnier/",
@@ -1353,8 +1396,8 @@ window.ANIME_DATA=[
   "synopsis": "八つの国からなる大陸の中央に位置する、マロニエ王国。\nその国を率いる女将軍・バリバラには、七人の個性豊かな息子たちがいた。\n\n「眠くない」「博愛」「暑がりや」「寒がりや」「獣使い」「剣自慢」「ハラペコ」－\n\nそれぞれ異なる資質を持つ彼らの大義は、ただひとつ。\n\n「いつか、かっこよくお姫様を助けること!!」\n\nやがて兄弟たちは、七つの国へ“大使”として旅立つ。\n未知の土地で彼らを待ち受ける出会いと試練、そして宿命とは－。\n\n中世風の異世界を舞台に描かれる、\n恋と冒険のファンタジーロマンス、\n\nここに開幕！",
   "synopsisLang": "ja",
   "synopsisSrc": "Bangumi 番组计划",
-  "score": 58,
-  "popularity": 4342,
+  "score": 64,
+  "popularity": 6674,
   "coverRemote": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx212799-n7WDdic7IL1z.png"
  },
  {
@@ -1396,7 +1439,16 @@ window.ANIME_DATA=[
   "tv": "TOKYO MX",
   "tvOther": "関西テレビ / BS朝日 / HTB北海道テレビ / ABA青森朝日放送 / 岩手めんこいテレビ / 東北放送 / AAB秋田朝日放送 / YBC山形放送 / FTV福島テレビ / とちぎテレビ / 群馬テレビ / NST新潟総合テレビ / KNB北日本放送 / 石川テレビ / 福井テレビ / YBS山梨放送 / NBS長野放送 / SBSテレビ / メ〜テレ（名古屋テレビ放送） / TSKさんいん中央テレビ / RNC西日本放送 / 広島テレビ / KRY山口放送 / JRT四国放送 / 南海放送 / RKC高知放送 / TNCテレビ西日本 / KTNテレビ長崎 / RKK熊本放送 / OBS大分放送 / KTS鹿児島テレビ",
   "bgmPlatform": null,
-  "streaming": [],
+  "streaming": [
+   {
+    "site": "YouTube",
+    "url": "https://www.youtube.com/playlist?list=PLVEC_1AvVqqE"
+   },
+   {
+    "site": "YouTube",
+    "url": "https://www.youtube.com/@SuikodenTheAnime-EN/videos"
+   }
+  ],
   "official": "https://suikoden-anime.com/",
   "twitter": "https://x.com/Suikoden_anime",
   "staff": {
@@ -1444,7 +1496,7 @@ window.ANIME_DATA=[
   "synopsisLang": "zh",
   "synopsisSrc": "Bangumi 番组计划",
   "score": 59,
-  "popularity": 4615,
+  "popularity": 7014,
   "coverRemote": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx187316-jucYCojVTjSY.jpg"
  },
  {
@@ -1453,7 +1505,7 @@ window.ANIME_DATA=[
   "bgmId": 511936,
   "anilistUrl": "https://anilist.co/anime/180894",
   "ja": "ロメリア戦記 〜魔王を倒した後も人類やばそうだから軍隊組織した〜",
-  "romaji": "Romeria Senki: Maou wo Taoshita nochi mo Jinrui Yabasou dakara Guntai Soshiki Shita",
+  "romaji": "Romelia Senki: Maou wo Taoshita nochi mo Jinrui Yabasou dakara Guntai Soshiki Shita",
   "en": "Romelia War Chronicle",
   "zh": "罗梅莉亚战记",
   "format": "网络动画",
@@ -1471,7 +1523,7 @@ window.ANIME_DATA=[
   "color": "#4393e4",
   "status": "RELEASING",
   "episodes": 24,
-  "duration": null,
+  "duration": 24,
   "genres": [
    "冒险",
    "剧情",
@@ -1537,8 +1589,8 @@ window.ANIME_DATA=[
   "synopsis": "長きにわたり旅をし、魔王ゼルギスを討ち果たしたロメリアと婚約者のアンリ王子。 しかし、アンリ王子は無慈悲にもロメリアに告げる。「婚約を破棄する」と。\n勝利に酔いしれるアンリたちを横目に、ロメリアは次なる旅へと向かった。 戦乱を通じて荒廃した祖国と、魔族に奪われた人々の暮らし。 魔王を倒したからといって、目の前に積みあがった問題が片付くわけではない。\nだから、私は私のやり方で、人々の幸せな暮らしを取り戻してみせる。 軍を興し、経済を動かし、時に陰謀に巻き込まれながらも、彼女は歩みを止めない。\nしかしその選択は、ロメリアの前にさらなる戦禍を運んでくる。\nこれは、魔王討伐の『その後』を描く、「一人の少女」と「彼女を支える騎士たち」の、再起の物語。",
   "synopsisLang": "ja",
   "synopsisSrc": "Bangumi 番组计划",
-  "score": 66,
-  "popularity": 6813,
+  "score": 70,
+  "popularity": 15151,
   "coverRemote": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx180894-o3pz4DWFm3je.png"
  },
  {
@@ -1565,7 +1617,7 @@ window.ANIME_DATA=[
   "color": "#50bbe4",
   "status": "RELEASING",
   "episodes": 13,
-  "duration": null,
+  "duration": 24,
   "genres": [
    "动作",
    "冒险",
@@ -1584,6 +1636,18 @@ window.ANIME_DATA=[
    {
     "site": "Crunchyroll",
     "url": "https://www.crunchyroll.com/series/GT00371633"
+   },
+   {
+    "site": "Bilibili TV",
+    "url": "https://www.bilibili.tv/en/media/2431959"
+   },
+   {
+    "site": "YouTube",
+    "url": "https://www.youtube.com/playlist?list=PLFsBVQsxttbw"
+   },
+   {
+    "site": "iQ",
+    "url": "https://www.iq.com/album/1tnlbxdm3vt"
    }
   ],
   "official": "https://daiseijo-anime.com/",
@@ -1598,7 +1662,7 @@ window.ANIME_DATA=[
   },
   "cast": [
    {
-    "role": "フィーア ルード",
+    "role": "フィーア・ルード",
     "cv": "若山詩音"
    },
    {
@@ -1626,8 +1690,8 @@ window.ANIME_DATA=[
   "synopsis": "尽管被人说「没有剑术的才华」，少女菲亚依然立志成为骑士。就在濒死之际，她突然回想起了前世的记忆。而她的前世，竟是拥有超乎常人力量的「大圣女」！？\n那是距今300年前的过往──身为大圣女的她曾与骑士们并肩作战，最后却惨遭魔王的左右手残忍杀害。\n随着前世记忆苏醒，菲亚身为「大圣女」的力量也随之复苏。然而，她同时想起前世曾遭魔王的左右手威胁：「要是转世后又成为圣女，我就杀了你。」\n因此，菲亚下定决心隐藏自己的力量，以一名骑士的身份活下去。\n然而，只要看见有人受伤，菲亚就无法坐视不管，更在接连遭遇的各种事件中，一次又一次使出圣女的力量。\n她究竟能否一直隐瞒自己身为圣女的秘密呢……！？",
   "synopsisLang": "zh",
   "synopsisSrc": "Bangumi 番组计划",
-  "score": 65,
-  "popularity": 10990,
+  "score": 68,
+  "popularity": 17193,
   "coverRemote": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx187402-ReKkLwFmMV3q.jpg"
  },
  {
@@ -1654,7 +1718,7 @@ window.ANIME_DATA=[
   "color": "#f1a143",
   "status": "RELEASING",
   "episodes": 13,
-  "duration": null,
+  "duration": 24,
   "genres": [
    "动作",
    "冒险",
@@ -1674,6 +1738,14 @@ window.ANIME_DATA=[
    {
     "site": "Crunchyroll",
     "url": "https://www.crunchyroll.com/series/GRE50KV36/black-clover"
+   },
+   {
+    "site": "Bilibili TV",
+    "url": "https://www.bilibili.tv/en/media/2432940"
+   },
+   {
+    "site": "iQ",
+    "url": "https://www.iq.com/album/qchxviq611"
    }
   ],
   "official": "http://bclover.jp/",
@@ -1698,12 +1770,16 @@ window.ANIME_DATA=[
     "cv": "梶原岳人"
    },
    {
-    "role": "ヤミ・スケヒロ",
-    "cv": "諏訪部順一"
+    "role": "シャーロット・ローズレイ",
+    "cv": "小林ゆう"
    },
    {
-    "role": "ナハト・ファウスト",
-    "cv": "下野紘"
+    "role": "ユリウス・ノヴァクロノ",
+    "cv": "森川智之"
+   },
+   {
+    "role": "ヤミ・スケヒロ",
+    "cv": "諏訪部順一"
    }
   ],
   "synopsisJa": null,
@@ -1711,7 +1787,7 @@ window.ANIME_DATA=[
   "synopsisLang": "ja",
   "synopsisSrc": "Bangumi 番组计划",
   "score": 87,
-  "popularity": 75739,
+  "popularity": 96098,
   "coverRemote": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx195604-tSZcfKbVqSEG.jpg"
  },
  {
@@ -1735,10 +1811,10 @@ window.ANIME_DATA=[
   "bgmDate": "2026-10-03",
   "dateConflict": false,
   "cover": "images/199007.jpg",
-  "color": "#5d86f1",
+  "color": "#5078e4",
   "status": "RELEASING",
   "episodes": 12,
-  "duration": null,
+  "duration": 23,
   "genres": [
    "动作",
    "喜剧",
@@ -1807,8 +1883,8 @@ window.ANIME_DATA=[
   "synopsisLang": "ja",
   "synopsisSrc": "Bangumi 番组计划",
   "score": 60,
-  "popularity": 6818,
-  "coverRemote": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx199007-qxUDe3KA6AGI.jpg"
+  "popularity": 10331,
+  "coverRemote": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx199007-8R1HsnflnHJE.jpg"
  },
  {
   "id": 209562,
@@ -1834,7 +1910,7 @@ window.ANIME_DATA=[
   "color": "#e4d650",
   "status": "RELEASING",
   "episodes": 12,
-  "duration": null,
+  "duration": 24,
   "genres": [
    "动作",
    "机战"
@@ -1897,7 +1973,7 @@ window.ANIME_DATA=[
   "synopsisLang": "zh",
   "synopsisSrc": "Bangumi 番组计划",
   "score": 54,
-  "popularity": 3191,
+  "popularity": 4606,
   "coverRemote": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx209562-kQQbTKDuql9p.jpg"
  },
  {
@@ -1924,7 +2000,7 @@ window.ANIME_DATA=[
   "color": "#5dbbe4",
   "status": "RELEASING",
   "episodes": 12,
-  "duration": null,
+  "duration": 24,
   "genres": [
    "喜剧",
    "擦边",
@@ -1943,6 +2019,14 @@ window.ANIME_DATA=[
    {
     "site": "OceanVeil",
     "url": "https://oceanveil.net/anime_titles/542"
+   },
+   {
+    "site": "Bilibili TV",
+    "url": "https://www.bilibili.tv/en/media/2433041"
+   },
+   {
+    "site": "iQ",
+    "url": "https://www.iq.com/album/28ki6pjn6a1"
    }
   ],
   "official": "https://nama-anaru.com/",
@@ -1990,8 +2074,8 @@ window.ANIME_DATA=[
   "synopsis": "ここは町はずれにある進学校、私立藤成学園。高等部１年の水之江梅は文学賞などを多数受賞したりと国語の成績は抜群な一方、理系科目は進級に響くほど壊滅的。留年回避のため、内申点をあげるため生徒会の役員となることに。\nしかし、彼が入った生徒会にはカリスマむっつり生徒会長・古都吹寿子、怖くて優しい清楚な会計・照井有栖。生意気可愛い男の子・尾鳥たん、小っちゃな捨て猫庶務・陸奥こまろと何やら変わった子たちが勢揃い！\nそんなキュートでちぐはぐな面々が織り成す、ドタバタハートフル生徒会ラブ＆コメディ、はじまりです！",
   "synopsisLang": "ja",
   "synopsisSrc": "Bangumi 番组计划",
-  "score": 72,
-  "popularity": 20951,
+  "score": 73,
+  "popularity": 41678,
   "coverRemote": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx191656-xFHtxM8SUTdU.png"
  },
  {
@@ -2018,7 +2102,7 @@ window.ANIME_DATA=[
   "color": "#e4bb5d",
   "status": "RELEASING",
   "episodes": 12,
-  "duration": null,
+  "duration": 24,
   "genres": [
    "动作",
    "喜剧",
@@ -2085,8 +2169,8 @@ window.ANIME_DATA=[
   "synopsis": "早乙女乱馬と、 天道道場三女の天道あかねは親が決めた許婚同士。\nしかし乱馬にはある悩みが…。\n\n中国での修行中、伝説の修行場「呪泉郷」に落ちてしまい、\n水をかぶると女に、お湯をかぶると男に戻る\nという、不思議な体質になってしまっていた！？\n\n乱馬とあかね、そして個性豊かなキャラクターたちが繰り広げる\nドタバタ格闘ラブコメディー、ここに開幕！",
   "synopsisLang": "ja",
   "synopsisSrc": "Bangumi 番组计划",
-  "score": 73,
-  "popularity": 13126,
+  "score": 77,
+  "popularity": 16851,
   "coverRemote": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx209872-RBeVPqwejHFp.jpg"
  },
  {
@@ -2110,10 +2194,10 @@ window.ANIME_DATA=[
   "bgmDate": "2026-10-03",
   "dateConflict": false,
   "cover": "images/202250.jpg",
-  "color": null,
+  "color": "#bbe45d",
   "status": "RELEASING",
   "episodes": 12,
-  "duration": null,
+  "duration": 23,
   "genres": [
    "动作",
    "冒险",
@@ -2132,6 +2216,14 @@ window.ANIME_DATA=[
    {
     "site": "Crunchyroll",
     "url": "https://www.crunchyroll.com/series/GT00385867/magic-repo-man-dumped-by-my-party-ill-cash-in-with-a-cute-support-fairy-to-become-the-strongest"
+   },
+   {
+    "site": "Bilibili TV",
+    "url": "https://www.bilibili.tv/en/media/2432615"
+   },
+   {
+    "site": "YouTube",
+    "url": "https://www.youtube.com/playlist?list=PLAzayY4fPdjw"
    }
   ],
   "official": "https://revo-anime.com",
@@ -2172,9 +2264,9 @@ window.ANIME_DATA=[
   "synopsis": "这是创世神赐予的「天赋」会对一个人的人生带来巨大变化的世界――。居住在边境村庄、心地善良的少年连特，获得了能将自己的魔力「借给」同伴，极为稀有的辅助能力「魔藏库」。\n他与村里的儿时玩伴们组成了队伍「断空之剑」，怀抱着身为辅助者的使命，踏上冒险之旅。然而，始终很弱的连特却被视为累赘，最后甚至惨遭队伍无情「放逐」！\n连特心中燃起了强烈的愤怒与复仇之火，他的天赋也因此进化，导致真正的能力就此觉醒――\n那就是，能将自己长年借出的庞大魔力【强制收回】的技能。向背叛自己的「前伙伴」讨回魔力，并以此为养分持续成长。连特的「复仇」故事，现在正式揭开序幕！",
   "synopsisLang": "zh",
   "synopsisSrc": "Bangumi 番组计划",
-  "score": 59,
-  "popularity": 8756,
-  "coverRemote": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx202250-duq4XpZP8TU3.jpg"
+  "score": 60,
+  "popularity": 20841,
+  "coverRemote": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx202250-mpm2cvr92Au2.jpg"
  },
  {
   "id": 213298,
@@ -2233,8 +2325,71 @@ window.ANIME_DATA=[
   "synopsisLang": "ja",
   "synopsisSrc": "Bangumi 番组计划",
   "score": null,
-  "popularity": 145,
+  "popularity": 181,
   "coverRemote": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx213298-ymB1Sw0yDZ0Y.jpg"
+ },
+ {
+  "id": 218011,
+  "malId": 64028,
+  "bgmId": 638081,
+  "anilistUrl": "https://anilist.co/anime/218011",
+  "ja": "タヌキとキツネ",
+  "romaji": "Tanuki to Kitsune (TV)",
+  "en": "Raccoon Dog & Fox",
+  "zh": "小狸猫与小狐狸",
+  "format": "TV短篇",
+  "fmtKey": "TV_SHORT",
+  "jstReal": "10/04 07:00",
+  "realDate": "2026-10-04",
+  "realTime": "07:00",
+  "airTimeExact": true,
+  "date": "2026-10-04",
+  "time": "07:00",
+  "weekday": 6,
+  "bgmDate": "2026-10-04",
+  "dateConflict": false,
+  "cover": "images/218011.jpg",
+  "color": "#fed628",
+  "status": "RELEASING",
+  "episodes": 12,
+  "duration": 2,
+  "genres": [
+   "喜剧"
+  ],
+  "source": "漫画改编",
+  "studios": [
+   "Akatsuki Media Studio"
+  ],
+  "isSequel": false,
+  "prequel": null,
+  "tv": "テレ東系",
+  "tvOther": null,
+  "bgmPlatform": null,
+  "streaming": [],
+  "official": "https://tanukitsu-anime.jp/",
+  "twitter": "https://x.com/tanukitsu_anime",
+  "staff": {
+   "原作": "アタモト『タヌキとキツネ』（フロンティアワークス／リラクトコミックス刊）",
+   "导演": "日野トミー",
+   "脚本": "木原梨花"
+  },
+  "cast": [
+   {
+    "role": "タヌキ",
+    "cv": "久野美咲"
+   },
+   {
+    "role": "キツネ",
+    "cv": "東山奈央"
+   }
+  ],
+  "synopsisJa": null,
+  "synopsis": "昔むかし、あるところに、タヌキとキツネがおりました。\nどんな時でもマイペース、食べることと遊ぶことがだいすきなタヌキ。\nそんなタヌキにいつもちょっかいを出している、すなおになれないキツネ。\nそして、ときどき２匹のところに遊びにくるウサギやクマ、オコジョや龍、\nピヨピヨにぎやかなトリたちに、無口だけれど優しいオオカミ。\nたくさんのおともだちにかこまれた、楽しい日々の物語、はじまりはじまり。",
+  "synopsisLang": "ja",
+  "synopsisSrc": "Bangumi 番组计划",
+  "score": null,
+  "popularity": 108,
+  "coverRemote": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx218011-dPgr1MlfSuhH.jpg"
  },
  {
   "id": 216860,
@@ -2260,7 +2415,7 @@ window.ANIME_DATA=[
   "color": "#5dd6f1",
   "status": "RELEASING",
   "episodes": null,
-  "duration": null,
+  "duration": 12,
   "genres": [
    "日常"
   ],
@@ -2277,13 +2432,38 @@ window.ANIME_DATA=[
   "official": "https://www.tv-tokyo.co.jp/anime/punirunes/",
   "twitter": "https://twitter.com/punirunes",
   "staff": {},
-  "cast": [],
+  "cast": [
+   {
+    "role": "ゆか",
+    "cv": "谷口夢奈"
+   },
+   {
+    "role": "あいるん",
+    "cv": "潘めぐみ"
+   },
+   {
+    "role": "えねるん",
+    "cv": "小松未可子"
+   },
+   {
+    "role": "らぶるん",
+    "cv": "内田彩"
+   },
+   {
+    "role": "うるるん",
+    "cv": "山口智広"
+   },
+   {
+    "role": "くーるん",
+    "cv": "木野日菜"
+   }
+  ],
   "synopsisJa": null,
   "synopsis": "ぷにるんず……それは、ぷにっとやわらかい『ぷしぎ』ないきもの。\nみんな、ぷにぷにされるのが大すき。\nにんげんたちがいるせかい、\nぷにるんずがすむ ぷにランド、\nなにもかもがかたい カチコチランド――、\n３つのばしょをいったり、きたりしながら、\nまいにち楽しく ぷにっとくらしています。\n\nそんなぷにるんずが、ぷにランドに学校をつくりました。\nその名も、『ぷにスクール』！\nみんなで先生や生徒になって授業をしたり、\n遠足にいったり、学校の七ぷしぎをしらべたり、\n大運動会をしたり、大そうじをしたり――。\n\nさらには、あたらしいぷにともも登場し、\n今回はぷにるんずオールスターが大集合！\nこれまでにない ぷにっと にぎやかな毎日がはじまります。",
   "synopsisLang": "ja",
   "synopsisSrc": "Bangumi 番组计划",
   "score": null,
-  "popularity": 39,
+  "popularity": 57,
   "coverRemote": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx216860-ghfSopHbPVNa.png"
  },
  {
@@ -2336,7 +2516,7 @@ window.ANIME_DATA=[
   "synopsisLang": "ja",
   "synopsisSrc": "Bangumi 番组计划",
   "score": null,
-  "popularity": 0,
+  "popularity": 51,
   "coverRemote": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b217787-NHLlgGiqy59P.jpg"
  },
  {
@@ -2363,7 +2543,7 @@ window.ANIME_DATA=[
   "color": "#e4ae50",
   "status": "RELEASING",
   "episodes": 12,
-  "duration": null,
+  "duration": 24,
   "genres": [
    "恋爱",
    "日常",
@@ -2430,8 +2610,8 @@ window.ANIME_DATA=[
   "synopsis": "每天早上都想见到她——\n\n猪股大喜是初高中一体的体育强校——荣明高中男子羽毛球队的成员。\n他喜欢上了每天晨练时都会见到的高二学姐鹿野千夏。\n突然有一天，因为父母去海外工作，千夏来到猪股家中寄居，二人的关系从晨练同伴逐渐升温。\n兼顾着社团活动、恋爱、和学习，让大喜无法忘记的崭新季节拉开了帷幕——",
   "synopsisLang": "zh",
   "synopsisSrc": "Bangumi 番组计划",
-  "score": 79,
-  "popularity": 38022,
+  "score": 81,
+  "popularity": 48963,
   "coverRemote": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx189123-0secXELIhkIW.jpg"
  },
  {
@@ -2458,7 +2638,7 @@ window.ANIME_DATA=[
   "color": "#e4ae50",
   "status": "RELEASING",
   "episodes": 24,
-  "duration": null,
+  "duration": 24,
   "genres": [
    "运动"
   ],
@@ -2475,6 +2655,14 @@ window.ANIME_DATA=[
    {
     "site": "Crunchyroll",
     "url": "https://www.crunchyroll.com/aoashi"
+   },
+   {
+    "site": "YouTube",
+    "url": "https://www.youtube.com/playlist?list=PLYavYYpKm3cc"
+   },
+   {
+    "site": "iQ",
+    "url": "https://www.iq.com/album/1627dg47zxl"
    }
   ],
   "official": "https://aoashi-pr.com/",
@@ -2517,8 +2705,8 @@ window.ANIME_DATA=[
   "synopsis": "青井苇人从爱媛县单身赴京，加入了J联赛顶尖俱乐部「东京City·Esperion FC」的青年队。尽管经历了无数次挫折，他仍不断成长，终于成功从B队晋升为A队。被公认为「青年队最佳杰作」的栗林，以及拥有压倒性身体素质的阿久津等人所属的最强A队。无论是速度、技术、想象力还是强韧度，都与B队完全不是同一个次元。苇人在练习的第一天便被这一切给压倒，体验了震撼教育。以日本最高规格的高中生联赛「超级联赛（Premier League）」为舞台，在强敌环绕的残酷战斗中，苇人究竟会迎来怎样的成长呢？",
   "synopsisLang": "zh",
   "synopsisSrc": "Bangumi 番组计划",
-  "score": null,
-  "popularity": 17911,
+  "score": 79,
+  "popularity": 24832,
   "coverRemote": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx191788-XC6F24LdX6a4.jpg"
  },
  {
@@ -2545,7 +2733,7 @@ window.ANIME_DATA=[
   "color": "#d6bb78",
   "status": "RELEASING",
   "episodes": 13,
-  "duration": null,
+  "duration": 24,
   "genres": [
    "动作",
    "喜剧",
@@ -2614,8 +2802,8 @@ window.ANIME_DATA=[
   "synopsis": "身为上班族的佐藤孝弘每天都过着无趣又劳累的生活。然而某天醒来时，他发现自己身处平时最爱玩的SF游戏世界里，而且还坐在搭载最强装备的太空船驾驶舱里。不仅可以去冒险，也可以贸易，甚至成为佣兵，掌握了这个宇宙的最强装备的孝弘决定改名为「西罗」，并以这个身份活下去。后来，西罗遇到了其他伙伴，并在一次又一次的战斗中察觉到，在外太空喝不到自己唯一喜欢的碳酸饮料。而且，他没有一个能和伙伴们一起回去的家。因此，他虽然价格高得惊人，但他下定决心要「在行星上买一栋附带庭院的独栋住宅！」就这样，西罗带着最强的装备与伙伴们展开了他的佣兵生涯。",
   "synopsisLang": "zh",
   "synopsisSrc": "Bangumi 番组计划",
-  "score": null,
-  "popularity": 9987,
+  "score": 69,
+  "popularity": 24379,
   "coverRemote": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx186541-caYpLsLmbCh7.jpg"
  },
  {
@@ -2642,7 +2830,7 @@ window.ANIME_DATA=[
   "color": "#f1ae35",
   "status": "RELEASING",
   "episodes": 12,
-  "duration": null,
+  "duration": 24,
   "genres": [
    "喜剧",
    "日常"
@@ -2660,6 +2848,10 @@ window.ANIME_DATA=[
    {
     "site": "Crunchyroll",
     "url": "https://www.crunchyroll.com/series/GT00385445/uncles-obsession-with-cute-things"
+   },
+   {
+    "site": "YouTube",
+    "url": "https://www.youtube.com/playlist?list=PLTx6Ft3jb3mg"
    }
   ],
   "official": "https://ojikawa.com/",
@@ -2706,8 +2898,8 @@ window.ANIME_DATA=[
   "synopsis": "长相帅气、工作能力出众的小路三贵，其实对可爱的东西毫无抵抗力。在公司里，他深受部下们信赖，而回到家后，却会尽情疼爱自己的最爱角色「巴哥太郎」，享受至福的时光。然而，小路始终无法向任何人坦白自己「最喜欢可爱小玩意」的这个秘密，每天都怀着提心吊胆的心情生活着。请敬请期待他对巴哥太郎满溢而出的爱，以及因某件事为契机逐渐产生变化的日常。",
   "synopsisLang": "zh",
   "synopsisSrc": "Bangumi 番组计划",
-  "score": null,
-  "popularity": 2985,
+  "score": 60,
+  "popularity": 5297,
   "coverRemote": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx202079-nwBpDUms0Bab.png"
  },
  {
@@ -2717,7 +2909,7 @@ window.ANIME_DATA=[
   "anilistUrl": "https://anilist.co/anime/209032",
   "ja": "魔法の姉妹ルルットリリィ 第2クール",
   "romaji": "Mahou no Shimai LuluttoLilly Part 2",
-  "en": null,
+  "en": "Magical Sisters LuluttoLilly Part 2",
   "zh": "魔法姐妹露露特莉莉 第2部分",
   "format": "TV动画",
   "fmtKey": "TV",
@@ -2730,11 +2922,11 @@ window.ANIME_DATA=[
   "weekday": 6,
   "bgmDate": "2026-10-04",
   "dateConflict": false,
-  "cover": "images/209032.png",
-  "color": "#f150bb",
+  "cover": "images/209032.jpg",
+  "color": "#e45df1",
   "status": "RELEASING",
   "episodes": 13,
-  "duration": null,
+  "duration": 23,
   "genres": [
    "魔法少女",
    "音乐"
@@ -2748,7 +2940,12 @@ window.ANIME_DATA=[
   "tv": "TOKYO MX",
   "tvOther": "ABCテレビ",
   "bgmPlatform": null,
-  "streaming": [],
+  "streaming": [
+   {
+    "site": "YouTube",
+    "url": "https://www.youtube.com/playlist?list=PLKPsuBIKuejMR6v7XCBOMy7Xesql1re66"
+   }
+  ],
   "official": "https://www.luluttolilly.com/",
   "twitter": "https://x.com/luluttolilly",
   "staff": {
@@ -2796,9 +2993,9 @@ window.ANIME_DATA=[
   "synopsis": "野野山风是个期待着暑假的天真小学生。野野山流则是个内敛，却非常努力进取的初中生。曾经无话不谈的姐妹，最近的距离却似乎变得遥远……\n某天，风遇见了一艘太空船，并从中获得了魔法力量。同时，流竟也获得了奇妙的魔法之力。风与流分别变身成了她们梦想中的大人模样。\n但魔法有两个必须遵守的规则：「期限仅限一年」以及「魔法的存在不可以被任何人知道」。两人在不知道彼此秘密的情况下，各自以偶像的身分大放异彩！",
   "synopsisLang": "zh",
   "synopsisSrc": "Bangumi 番组计划",
-  "score": null,
-  "popularity": 1147,
-  "coverRemote": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx209032-MD8TDzYtFoL0.png"
+  "score": 57,
+  "popularity": 1415,
+  "coverRemote": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx209032-R0gP5IFdk7Vd.jpg"
  },
  {
   "id": 209499,
@@ -2824,7 +3021,7 @@ window.ANIME_DATA=[
   "color": "#e4c95d",
   "status": "RELEASING",
   "episodes": 12,
-  "duration": null,
+  "duration": 25,
   "genres": [
    "动作",
    "科幻"
@@ -2885,8 +3082,8 @@ window.ANIME_DATA=[
   "synopsis": "妹を銃弾から守り意識が戻らぬ身となった\n最強の殺し屋・平良 凪（タイラ ナギ）。\n彼が覚醒する条件は、“殺意”を向けられること！\n“とびきりの殺意”が凪を完全覚醒させると信じ、\n妹・平良 静（タイラ シズカ）は\n兄を連れて強敵達との“リハビリ”を始める――！\n月刊少年シリウス（講談社）で連載中、\n鬼才・やしろ学が描く海外ファンをも熱狂の渦に巻き込む話題作が満を持してアニメ化決定！\nアニメーション制作は世界が認めるポリゴン・ピクチュアズ。\n『シドニアの騎士』や『スパイダーマン：フレンドリー・ネイバーフッド』、\n『スター・ウォーズ：ビジョンズ Vol.3 - 極楽鳥の花』など\nグローバルに数多くの作品を手掛けてきた圧倒的映像力で、躍動感溢れる本作の世界を描く！\n荒廃した街で繰り広げられる個性豊かな敵とのバイオレンス・アクション、\nそして兄妹が互いを支え合う唯一無二の“絆の物語”にその身を捧げよ。",
   "synopsisLang": "ja",
   "synopsisSrc": "Bangumi 番组计划",
-  "score": null,
-  "popularity": 3892,
+  "score": 61,
+  "popularity": 8333,
   "coverRemote": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx209499-S0sWFrCpft85.jpg"
  },
  {
@@ -2913,7 +3110,7 @@ window.ANIME_DATA=[
   "color": "#e45d35",
   "status": "RELEASING",
   "episodes": 12,
-  "duration": null,
+  "duration": 24,
   "genres": [
    "喜剧",
    "奇幻",
@@ -2975,8 +3172,8 @@ window.ANIME_DATA=[
   "synopsis": "伯爵千金琵雅觉醒前世记忆，发现自己身处乙女游戏世界且注定被弃。为了避祸，她向未婚夫路法斯提议解除婚约，却意外触发对方的占有欲与深情。两人因而签下高额补偿契约，展开一段伴随着不安与宠溺的婚约关系。",
   "synopsisLang": "zh",
   "synopsisSrc": "Bangumi 番组计划",
-  "score": null,
-  "popularity": 5251,
+  "score": 66,
+  "popularity": 11914,
   "coverRemote": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx200455-P3XStRQMJ7Di.png"
  },
  {
@@ -3003,7 +3200,7 @@ window.ANIME_DATA=[
   "color": "#e45d78",
   "status": "RELEASING",
   "episodes": 13,
-  "duration": null,
+  "duration": 23,
   "genres": [
    "动作",
    "剧情"
@@ -3021,6 +3218,10 @@ window.ANIME_DATA=[
    {
     "site": "Crunchyroll",
     "url": "https://www.crunchyroll.com/series/GXJHM3G08/hotel-inhumans"
+   },
+   {
+    "site": "YouTube",
+    "url": "https://www.youtube.com/playlist?list=PLL3w2EaZKrjI"
    }
   ],
   "official": "https://hotel-inhumans.com/",
@@ -3056,8 +3257,8 @@ window.ANIME_DATA=[
   "synopsis": "这间旅店的客人都是杀手。杀手旅店，这里是专门服务顶尖杀手的旅店。想成为顶级的旅店，有几个条件：极致的餐饮、最棒的疗愈、迷人的娱乐、最新型的武器、提供令人安心的伪造身份，以及完美的毁尸灭迹！？在死亡边缘上，两名绝不说「NO」的礼宾人员，生朗和沙罗，会为杀手们实现怎样的心愿呢？令人震撼的杀手旅店戏码，即将上演！",
   "synopsisLang": "zh",
   "synopsisSrc": "Bangumi 番组计划",
-  "score": null,
-  "popularity": 2488,
+  "score": 59,
+  "popularity": 3517,
   "coverRemote": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx199426-0nBgTV9BrcJn.jpg"
  },
  {
@@ -3103,6 +3304,10 @@ window.ANIME_DATA=[
    {
     "site": "Crunchyroll",
     "url": "https://www.crunchyroll.com/series/GT00384000/from-far-away"
+   },
+   {
+    "site": "iQ",
+    "url": "https://www.iq.com/album/vbssu42k2p"
    }
   ],
   "official": "https://kanatakara-anime.com/",
@@ -3151,8 +3356,8 @@ window.ANIME_DATA=[
   "synopsis": "少女雑誌「LaLa」(白泉社)にて\n1991年〜2002年まで連載され、累計発行部数400万部。\n優秀なSF作品に贈られる「星雲賞」を、2004年に受賞した\n異世界アクションファンタジー漫画の金字塔である。\n今回「LaLa」連載から35周年を記念し、\n待望のアニメ化が実現することとなった。\n\n数々の名作を手掛けてきた豪華ベテランアニメスタッフ陣が集結。\n原作者・ひかわきょうこ先生監修の元、\n原作ファンの想いを大切にしつつ、\n独特で美しい世界観を総力上げて描いていく。\n\n魅力あふれるキャラクターたちによる濃厚な冒険と運命、\nそして紡がれる愛のドラマには涙を抑えきれない感動が待っている。\nまた、SF描写は今の時代においても見応え十分である。\n\n原作ファンにも、初めて作品に触れる視聴者にも、\nきっと満足していただけるアニメ作品となることは間違いない。",
   "synopsisLang": "ja",
   "synopsisSrc": "Bangumi 番组计划",
-  "score": null,
-  "popularity": 3191,
+  "score": 64,
+  "popularity": 5679,
   "coverRemote": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx209463-Yxk2q10RXgg8.jpg"
  },
  {
@@ -3176,10 +3381,10 @@ window.ANIME_DATA=[
   "bgmDate": "2026-10-04",
   "dateConflict": false,
   "cover": "images/206774.jpg",
-  "color": "#e4bba1",
+  "color": "#f1c9ae",
   "status": "RELEASING",
   "episodes": 8,
-  "duration": null,
+  "duration": 6,
   "genres": [
    "擦边",
    "恋爱",
@@ -3234,9 +3439,9 @@ window.ANIME_DATA=[
   "synopsis": "もしマウスカーソルで現実を操作出来たら？\nある日、授業中に自分のマウスカーソルが画面外に飛び出ている事に\n気付いたオタクの拓海。\n慌てながら隣の席に座っている幼馴染の萌音に確認するも、相手にしてもらえず…。\n実際に自分で操作出来る事を知った拓海は\n自分にしか見えないマウスカーソルを駆使して\n萌音の服の隙間にマウスカーソルを潜り込ませて\nカチカチとクリックを連打すると───！？\n日本初（多分）の新ジャンル\n『オタクに優しくないギャルをマウスカーソルでカチカチする』系ラブコメ開幕！",
   "synopsisLang": "ja",
   "synopsisSrc": "Bangumi 番组计划",
-  "score": null,
-  "popularity": 3425,
-  "coverRemote": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx206774-S65hVQp46NUf.jpg"
+  "score": 50,
+  "popularity": 6907,
+  "coverRemote": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx206774-gXVdrySlLY6y.jpg"
  },
  {
   "id": 211877,
@@ -3280,7 +3485,7 @@ window.ANIME_DATA=[
   "streaming": [
    {
     "site": "OceanVeil",
-    "url": "https://oceanveil.net/anime_titles/"
+    "url": "https://oceanveil.net/anime_titles/537"
    }
   ],
   "official": "https://kanojo-no-tomodachi.deregula.com/",
@@ -3316,17 +3521,17 @@ window.ANIME_DATA=[
   "synopsis": "私と浮気しない？\n人生で初めてできた、かわいい彼女\nでもその友達は、彼女よりも豊満なカラダで\n僕を誘惑してきて…。\n彼女の友達にこんな風に迫られたら、\nあなたはどうしますか？\n\nヤンマガWebで圧倒的人気を誇る\n”じゅら”が描く魅惑の背徳物語、禁断のTVアニメ化。",
   "synopsisLang": "ja",
   "synopsisSrc": "Bangumi 番组计划",
-  "score": null,
-  "popularity": 6639,
+  "score": 49,
+  "popularity": 12273,
   "coverRemote": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx211877-yWQ2r7XmWvG6.jpg"
  },
  {
   "id": 217782,
-  "malId": null,
+  "malId": 65167,
   "bgmId": null,
   "anilistUrl": "https://anilist.co/anime/217782",
-  "ja": "彼女の友達 ミニアニメ",
-  "romaji": "Kanojo no Tomodachi Mini Anime",
+  "ja": "彼女の友達 ミニアニメ劇場",
+  "romaji": "Kanojo no Tomodachi Mini Anime Gekijou",
   "en": "My Girlfriend's Friend Mini Anime",
   "zh": null,
   "format": "TV短篇",
@@ -3359,7 +3564,12 @@ window.ANIME_DATA=[
   "tv": null,
   "tvOther": null,
   "bgmPlatform": null,
-  "streaming": [],
+  "streaming": [
+   {
+    "site": "OceanVeil",
+    "url": "https://oceanveil.net/anime_titles/537"
+   }
+  ],
   "official": "https://kanojo-no-tomodachi.deregula.com/",
   "twitter": "https://x.com/kanotomo_anime",
   "staff": {},
@@ -3382,7 +3592,7 @@ window.ANIME_DATA=[
   "synopsisLang": "en",
   "synopsisSrc": "AniList（英文）",
   "score": null,
-  "popularity": 0,
+  "popularity": 307,
   "coverRemote": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx217782-DV0vODQ68ZRk.png"
  },
  {
@@ -3453,7 +3663,7 @@ window.ANIME_DATA=[
    },
    {
     "role": "アモナ・ジーン",
-    "cv": "高野零"
+    "cv": "三浦千幸"
    },
    {
     "role": "ハル・パーヴェイン",
@@ -3472,9 +3682,83 @@ window.ANIME_DATA=[
   "synopsis": "クソ真面目な神官・ロニのパーティーに新しく加入してきたのは、\n悪魔の力を使う美しきダークサモナーの。\n\n聖と邪、人間と亜人。\n反発しあい犬猿の仲にあると思われた2人だったが、\nパーティー加入初日に朝チュンしてしまい…！？\n\n秘密の関係を抱えたまま、クセの強いパーティーメンバーと、\n召喚悪魔インプたちと共に旅は続く！\n\n背徳とときめきが交錯する。\n\n亜人女子×神官男子の\nファンタジー・ケンカップルラブコメ、開幕！",
   "synopsisLang": "ja",
   "synopsisSrc": "Bangumi 番组计划",
-  "score": null,
-  "popularity": 9167,
+  "score": 67,
+  "popularity": 24797,
   "coverRemote": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx208025-JKvqWNr8rz8l.jpg"
+ },
+ {
+  "id": 218217,
+  "malId": 65169,
+  "bgmId": null,
+  "anilistUrl": "https://anilist.co/anime/218217",
+  "ja": "JKダークサモナーとデキ。。。。。。でいない!?",
+  "romaji": "JK Dark Summoner to Deki......Dei Nai!?",
+  "en": null,
+  "zh": null,
+  "format": "TV短篇",
+  "fmtKey": "TV_SHORT",
+  "jstReal": "10/05 03:00",
+  "realDate": "2026-10-05",
+  "realTime": "03:00",
+  "airTimeExact": true,
+  "date": "2026-10-04",
+  "time": "27:00",
+  "weekday": 6,
+  "bgmDate": null,
+  "dateConflict": false,
+  "cover": "images/218217.png",
+  "color": "#e4bb28",
+  "status": "RELEASING",
+  "episodes": 12,
+  "duration": 10,
+  "genres": [
+   "喜剧",
+   "擦边",
+   "奇幻",
+   "恋爱"
+  ],
+  "source": "漫画改编",
+  "studios": [
+   "Frontier Works"
+  ],
+  "isSequel": true,
+  "prequel": null,
+  "tv": null,
+  "tvOther": null,
+  "bgmPlatform": null,
+  "streaming": [],
+  "official": "https://darksummoner.deregula.com/",
+  "twitter": "https://x.com/dksummon_anime",
+  "staff": {},
+  "cast": [
+   {
+    "role": "ロニ・ガーデイハウス",
+    "cv": "西山ユウキ"
+   },
+   {
+    "role": "アモナ・ジーン",
+    "cv": "三浦千幸"
+   },
+   {
+    "role": "ハル・パーヴェイン",
+    "cv": "西村あかね"
+   },
+   {
+    "role": "エウリイ・リリララ",
+    "cv": "矢鹿まや"
+   },
+   {
+    "role": "ナレーター",
+    "cv": "有宮あかり"
+   }
+  ],
+  "synopsisJa": null,
+  "synopsis": "A weekly mini anime shown with each episode of Dark Summoner to Dekiteiru exclusively on the AT-X broadcast of the TV anime and online on Abema.",
+  "synopsisLang": "en",
+  "synopsisSrc": "AniList（英文）",
+  "score": null,
+  "popularity": 266,
+  "coverRemote": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx218217-crIGlnQDg0bJ.png"
  },
  {
   "id": 214593,
@@ -3498,9 +3782,9 @@ window.ANIME_DATA=[
   "dateConflict": false,
   "cover": "images/214593.png",
   "color": "#f1ae50",
-  "status": "NOT_YET_RELEASED",
+  "status": "RELEASING",
   "episodes": 12,
-  "duration": null,
+  "duration": 1,
   "genres": [
    "喜剧",
    "日常"
@@ -3553,8 +3837,88 @@ window.ANIME_DATA=[
   "synopsisLang": "ja",
   "synopsisSrc": "Bangumi 番组计划",
   "score": null,
-  "popularity": 96,
+  "popularity": 130,
   "coverRemote": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx214593-WZ0HaPSRae2E.png"
+ },
+ {
+  "id": 218532,
+  "malId": 65119,
+  "bgmId": 707667,
+  "anilistUrl": "https://anilist.co/anime/218532",
+  "ja": "猫猫のひとりごと 第3期",
+  "romaji": "Maomao no Hitorigoto 3rd Season",
+  "en": null,
+  "zh": "猫猫的呢喃 第三季",
+  "format": "网络动画",
+  "fmtKey": "ONA",
+  "jstReal": "10/05 12:00",
+  "realDate": "2026-10-05",
+  "realTime": "12:00",
+  "airTimeExact": true,
+  "date": "2026-10-05",
+  "time": "12:00",
+  "weekday": 0,
+  "bgmDate": "2026-10-05",
+  "dateConflict": false,
+  "cover": "images/218532.png",
+  "color": "#e4c9ae",
+  "status": "RELEASING",
+  "episodes": 24,
+  "duration": 2,
+  "genres": [
+   "喜剧"
+  ],
+  "source": "轻小说改编",
+  "studios": [
+   "Toho"
+  ],
+  "isSequel": true,
+  "prequel": "猫猫のひとりごと 第2期",
+  "tv": null,
+  "tvOther": null,
+  "bgmPlatform": "YouTube",
+  "streaming": [
+   {
+    "site": "YouTube",
+    "url": "https://www.youtube.com/playlist?list=PLtdSPZNWT1AtlB6oZ-OLqZKXwMdMnIDiC"
+   }
+  ],
+  "official": "https://kusuriyanohitorigoto.jp/",
+  "twitter": "https://x.com/kusuriya_PR",
+  "staff": {},
+  "cast": [
+   {
+    "role": "猫猫",
+    "cv": "悠木碧"
+   },
+   {
+    "role": "壬氏",
+    "cv": "大塚剛央"
+   },
+   {
+    "role": "陸孫",
+    "cv": "内山昂輝"
+   },
+   {
+    "role": "馬閃",
+    "cv": "橘龍丸"
+   },
+   {
+    "role": "響迂",
+    "cv": "藤原夏海"
+   },
+   {
+    "role": "羅半",
+    "cv": "豊永利行"
+   }
+  ],
+  "synopsisJa": null,
+  "synopsis": "Chibi shorts to Kusuriya no Hitorigoto 3rd Season released on the TOHO animation YouTube channel.",
+  "synopsisLang": "en",
+  "synopsisSrc": "AniList（英文）",
+  "score": null,
+  "popularity": 267,
+  "coverRemote": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx218532-I1GCprJrJ5sm.png"
  },
  {
   "id": 207191,
@@ -3577,10 +3941,10 @@ window.ANIME_DATA=[
   "bgmDate": "2026-10-05",
   "dateConflict": false,
   "cover": "images/207191.jpg",
-  "color": null,
-  "status": "NOT_YET_RELEASED",
+  "color": "#aed6e4",
+  "status": "RELEASING",
   "episodes": 12,
-  "duration": null,
+  "duration": 24,
   "genres": [
    "奇幻",
    "恋爱"
@@ -3597,7 +3961,7 @@ window.ANIME_DATA=[
   "streaming": [
    {
     "site": "Crunchyroll",
-    "url": "https://www.crunchyroll.com"
+    "url": "https://www.crunchyroll.com/series/GT00378072/hello-i-am-a-witch-and-my-crush-wants-me-to-make-a-love-potion"
    }
   ],
   "official": "https://horemajo-anime.com/",
@@ -3629,96 +3993,9 @@ window.ANIME_DATA=[
   "synopsis": "シリーズ累計100万部突破。\n“失恋”から始まる、少し不器用で切ない恋物語。\n\n「惚れ薬を作ってほしい」\n\n湖に住む魔女ロゼは、密かに想いを寄せていた騎士ハリージュから、その一言を告げられる。\n彼が想っているのは、自分ではない誰か――その現実に、ロゼは失恋する。\n\nそれでも彼の依頼を断れず、惚れ薬が完成するまでの間だけでも\n一緒にいられたらと、切ない想いを胸に日々を重ねていくロゼ。\n叶わぬ恋だとわかっていても、想いは消せない。\n\nこれは、不器用な引きこもり魔女×世話焼きな生真面目騎士。\n惚れ薬をきっかけに紡がれる、切ない恋物語。",
   "synopsisLang": "ja",
   "synopsisSrc": "Bangumi 番组计划",
-  "score": null,
-  "popularity": 11108,
-  "coverRemote": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b207191-MV0uJNxN7LNY.jpg"
- },
- {
-  "id": 204011,
-  "malId": 63098,
-  "bgmId": 614640,
-  "anilistUrl": "https://anilist.co/anime/204011",
-  "ja": "PSYREN -サイレン-",
-  "romaji": "PSYЯEN",
-  "en": "PSYREN",
-  "zh": "PSYREN -决战游戏-",
-  "format": "TV动画",
-  "fmtKey": "TV",
-  "jstReal": "10/05 23:00",
-  "realDate": "2026-10-05",
-  "realTime": "23:00",
-  "airTimeExact": true,
-  "date": "2026-10-05",
-  "time": "23:00",
-  "weekday": 0,
-  "bgmDate": "2026-10-05",
-  "dateConflict": false,
-  "cover": "images/204011.jpg",
-  "color": "#0dd6e4",
-  "status": "NOT_YET_RELEASED",
-  "episodes": 12,
-  "duration": null,
-  "genres": [
-   "动作",
-   "冒险",
-   "科幻"
-  ],
-  "source": "漫画改编",
-  "studios": [
-   "Satelight"
-  ],
-  "isSequel": false,
-  "prequel": null,
-  "tv": null,
-  "tvOther": null,
-  "bgmPlatform": null,
-  "streaming": [
-   {
-    "site": "Crunchyroll",
-    "url": "https://www.crunchyroll.com/"
-   }
-  ],
-  "official": "https://psyren-anime.com/",
-  "twitter": "https://x.com/PSYREN_official",
-  "staff": {
-   "原作": "岩代俊明（集英社刊）",
-   "导演": "小野勝巳",
-   "人物设定": "大熊白",
-   "音乐": "大間々昂・斎木達彦・兼松衆"
-  },
-  "cast": [
-   {
-    "role": "夜科アゲハ",
-    "cv": "安田陸矢"
-   },
-   {
-    "role": "雨宮桜子",
-    "cv": "風間万裕子"
-   },
-   {
-    "role": "朝河飛龍",
-    "cv": "武内駿輔"
-   },
-   {
-    "role": "望月朧",
-    "cv": "斉藤壮馬"
-   },
-   {
-    "role": "霧崎カブト",
-    "cv": "野津山幸宏"
-   },
-   {
-    "role": "八雲祭",
-    "cv": "甲斐田裕子"
-   }
-  ],
-  "synopsisJa": null,
-  "synopsis": "高校一年生・夜科アゲハは、ある日、公衆電話に放置されていた\n“赤いテレホンカード”を拾う。数日後、同じテレホンカードを持っていた\n幼馴染みの同級生・雨宮桜子が姿を消す。\nアゲハは彼女を捜すため、全国規模で起こっている連続“神隠し”失踪事件\nの黒幕と噂される「秘密結社サイレン」へとアクセスする。\nそして、命を懸けたゲームが始まってしまった─",
-  "synopsisLang": "ja",
-  "synopsisSrc": "Bangumi 番组计划",
-  "score": null,
-  "popularity": 10106,
-  "coverRemote": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx204011-j45RZoqYbdZK.jpg"
+  "score": 71,
+  "popularity": 25569,
+  "coverRemote": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx207191-VgkIzfH92WoZ.jpg"
  },
  {
   "id": 209219,
@@ -3729,14 +4006,14 @@ window.ANIME_DATA=[
   "romaji": "Tensei Goblin Dakedo Shitsumon Aru?",
   "en": "So What's Wrong with Getting Reborn as a Goblin?",
   "zh": "转生哥布林有问题吗？",
-  "format": "TV动画",
-  "fmtKey": "TV",
-  "jstReal": null,
+  "format": "网络动画",
+  "fmtKey": "ONA",
+  "jstReal": "10/05 22:00",
   "realDate": "2026-10-05",
-  "realTime": null,
-  "airTimeExact": false,
+  "realTime": "22:00",
+  "airTimeExact": true,
   "date": "2026-10-05",
-  "time": null,
+  "time": "22:00",
   "weekday": 0,
   "bgmDate": "2026-10-05",
   "dateConflict": false,
@@ -3744,7 +4021,7 @@ window.ANIME_DATA=[
   "color": "#a1c950",
   "status": "RELEASING",
   "episodes": 12,
-  "duration": null,
+  "duration": 24,
   "genres": [
    "动作",
    "冒险",
@@ -3754,7 +4031,9 @@ window.ANIME_DATA=[
    "恋爱"
   ],
   "source": "漫画改编",
-  "studios": [],
+  "studios": [
+   "BAKKKA"
+  ],
   "isSequel": false,
   "prequel": null,
   "tv": "TOKYO MX",
@@ -3763,7 +4042,19 @@ window.ANIME_DATA=[
   "streaming": [
    {
     "site": "Crunchyroll",
-    "url": "https://www.crunchyroll.com/"
+    "url": "https://www.crunchyroll.com/series/GT00384010/so-whats-wrong-with-getting-reborn-as-a-goblin"
+   },
+   {
+    "site": "YouTube",
+    "url": "https://www.youtube.com/playlist?list=PLYld27spJ0aA"
+   },
+   {
+    "site": "Bilibili TV",
+    "url": "https://www.bilibili.tv/en/media/2433441"
+   },
+   {
+    "site": "iQ",
+    "url": "https://www.iq.com/album/ffeb3x9fd5"
    }
   ],
   "official": "https://tengobu-anime.com/",
@@ -3805,9 +4096,92 @@ window.ANIME_DATA=[
   "synopsis": "备受下属信赖的上班族八神彰，为保护冲向车道的孩子而丧命。不料他竟转生成了异种族「哥布林」。哥布林的寿命本该仅有短短7天，但凭借转生时获得的技能【人类80年】，他陆续继承了先行离世的哥布林们留下的技能。随后，魔族、精灵甚至巨龙等强者纷纷聚集到八神身边…… 由「哥布林」掀起的最强无双幻想故事，在此揭开序幕！",
   "synopsisLang": "zh",
   "synopsisSrc": "Bangumi 番组计划",
-  "score": null,
-  "popularity": 4512,
+  "score": 66,
+  "popularity": 19381,
   "coverRemote": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx209219-3yhKlRx0LX3p.jpg"
+ },
+ {
+  "id": 204011,
+  "malId": 63098,
+  "bgmId": 614640,
+  "anilistUrl": "https://anilist.co/anime/204011",
+  "ja": "PSYREN -サイレン-",
+  "romaji": "PSYЯEN",
+  "en": "PSYREN",
+  "zh": "PSYREN -决战游戏-",
+  "format": "TV动画",
+  "fmtKey": "TV",
+  "jstReal": "10/05 23:00",
+  "realDate": "2026-10-05",
+  "realTime": "23:00",
+  "airTimeExact": true,
+  "date": "2026-10-05",
+  "time": "23:00",
+  "weekday": 0,
+  "bgmDate": "2026-10-05",
+  "dateConflict": false,
+  "cover": "images/204011.jpg",
+  "color": "#0dd6e4",
+  "status": "RELEASING",
+  "episodes": 12,
+  "duration": 24,
+  "genres": [
+   "动作",
+   "冒险",
+   "科幻"
+  ],
+  "source": "漫画改编",
+  "studios": [
+   "Satelight"
+  ],
+  "isSequel": false,
+  "prequel": null,
+  "tv": null,
+  "tvOther": null,
+  "bgmPlatform": null,
+  "streaming": [
+   {
+    "site": "Crunchyroll",
+    "url": "https://www.crunchyroll.com/series/GT00371866/psyren"
+   }
+  ],
+  "official": "https://psyren-anime.com/",
+  "twitter": "https://x.com/PSYREN_official",
+  "staff": {
+   "原作": "岩代俊明（集英社刊）",
+   "导演": "小野勝巳",
+   "人物设定": "大熊白",
+   "音乐": "大間々昂・斎木達彦・兼松衆"
+  },
+  "cast": [
+   {
+    "role": "夜科アゲハ",
+    "cv": "安田陸矢"
+   },
+   {
+    "role": "雨宮桜子",
+    "cv": "風間万裕子"
+   },
+   {
+    "role": "朝河飛龍",
+    "cv": "武内駿輔"
+   },
+   {
+    "role": "望月朧",
+    "cv": "斉藤壮馬"
+   },
+   {
+    "role": "霧崎カブト",
+    "cv": "野津山幸宏"
+   }
+  ],
+  "synopsisJa": null,
+  "synopsis": "高校一年生・夜科アゲハは、ある日、公衆電話に放置されていた\n“赤いテレホンカード”を拾う。数日後、同じテレホンカードを持っていた\n幼馴染みの同級生・雨宮桜子が姿を消す。\nアゲハは彼女を捜すため、全国規模で起こっている連続“神隠し”失踪事件\nの黒幕と噂される「秘密結社サイレン」へとアクセスする。\nそして、命を懸けたゲームが始まってしまった─",
+  "synopsisLang": "ja",
+  "synopsisSrc": "Bangumi 番组计划",
+  "score": 69,
+  "popularity": 20963,
+  "coverRemote": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx204011-j45RZoqYbdZK.jpg"
  },
  {
   "id": 160803,
@@ -3816,7 +4190,7 @@ window.ANIME_DATA=[
   "anilistUrl": "https://anilist.co/anime/160803",
   "ja": "魔法少女育成計画 restart",
   "romaji": "Mahou Shoujo Ikusei Keikaku: restart",
-  "en": null,
+  "en": "MAGICAL GIRL RAISING PROJECT restart",
   "zh": "魔法少女育成计划 restart",
   "format": "TV动画",
   "fmtKey": "TV",
@@ -3831,9 +4205,9 @@ window.ANIME_DATA=[
   "dateConflict": false,
   "cover": "images/160803.png",
   "color": "#e4ae93",
-  "status": "NOT_YET_RELEASED",
+  "status": "RELEASING",
   "episodes": 12,
-  "duration": null,
+  "duration": 24,
   "genres": [
    "动作",
    "奇幻",
@@ -3853,6 +4227,14 @@ window.ANIME_DATA=[
    {
     "site": "YouTube",
     "url": "https://www.youtube.com/@mahoiku2official"
+   },
+   {
+    "site": "OceanVeil",
+    "url": "https://oceanveil.net/anime_titles/544"
+   },
+   {
+    "site": "YouTube",
+    "url": "https://www.youtube.com/playlist?list=PLTPDFXU5mBC8"
    }
   ],
   "official": "https://mahoiku.com/anime/restart",
@@ -3889,11 +4271,11 @@ window.ANIME_DATA=[
    }
   ],
   "synopsisJa": null,
-  "synopsis": "A stage reading in the Magical Girl Raising Project franchise announced that an anime adaptation of Asari Endou's Magical Girl Raising Project Restart light novel volumes has been green-lit. Hiroyuki Hashimoto reported on Twitter that he will return from the first Magical Girl Raising Project anime as the director. The franchise's Twitter account also teased that various initiatives are in the works for \"Project restart.\"",
+  "synopsis": "Some magical girls fight. Others do not. Chosen by the mysterious Land of Magic, which exists unbeknownst to the rest of the world, magical girls are each granted a unique power. Pechka, whose magic makes food delicious, is forced to take part in a mysterious virtual game together with 16 unfamiliar magical girls, each with her own distinctive personality. It was supposed to be a safe training exercise designed to improve their magical abilities. But instead, it marks the beginning of a carefully orchestrated nightmare - a forbidden trial. A new Magical Girl Raising Project has begun.",
   "synopsisLang": "en",
   "synopsisSrc": "AniList（英文）",
-  "score": null,
-  "popularity": 5650,
+  "score": 59,
+  "popularity": 7192,
   "coverRemote": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx160803-Rcr3IvhE7q9c.png"
  },
  {
@@ -3918,10 +4300,11 @@ window.ANIME_DATA=[
   "dateConflict": false,
   "cover": "images/206949.png",
   "color": "#f15dbb",
-  "status": "NOT_YET_RELEASED",
+  "status": "RELEASING",
   "episodes": 25,
-  "duration": null,
+  "duration": 24,
   "genres": [
+   "动作",
    "奇幻"
   ],
   "source": "轻小说改编",
@@ -3936,7 +4319,15 @@ window.ANIME_DATA=[
   "streaming": [
    {
     "site": "HIDIVE",
-    "url": "https://www.hidive.com"
+    "url": "https://www.hidive.com/season/39540"
+   },
+   {
+    "site": "Bilibili TV",
+    "url": "https://www.bilibili.tv/en/media/2433665"
+   },
+   {
+    "site": "iQ",
+    "url": "https://www.iq.com/album/tvod2397yt"
    }
   ],
   "official": "https://kyoranreijo-pr.com/",
@@ -3964,11 +4355,11 @@ window.ANIME_DATA=[
     "cv": "漆山ゆうき"
    },
    {
-    "role": "ヒルデトーラ ・アルトワール",
+    "role": "ヒルデトーラ・アルトワール",
     "cv": "本泉莉奈"
    },
    {
-    "role": "レリアレッド ・シルヴァー",
+    "role": "レリアレッド・シルヴァー",
     "cv": "日高里菜"
    }
   ],
@@ -3976,8 +4367,8 @@ window.ANIME_DATA=[
   "synopsis": "「どうせなら、戦って死にたかった」\nかつて神殺しをも成し遂げた大英雄は、死の間際、自分を殺せるほど強い相手と出会うことを夢に見る。だが、待ち受けていたのは病弱な貴族令嬢への転生だった！？\n美しくも病弱な令嬢ニア・リストンとなった彼女は、第二の人生でも強者を求めて楽しく戦いに身を投じてゆく！さらに、魔法映像（マジックビジョン）のタレント活動でも学院生活でも大暴れ！？\nこれは、いずれ「凶乱令嬢」と呼ばれる最強お嬢様の華麗なる戦いの記録。",
   "synopsisLang": "ja",
   "synopsisSrc": "Bangumi 番组计划",
-  "score": null,
-  "popularity": 9184,
+  "score": 75,
+  "popularity": 24459,
   "coverRemote": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx206949-4HYI3YuP0eLI.png"
  },
  {
@@ -4002,9 +4393,9 @@ window.ANIME_DATA=[
   "dateConflict": false,
   "cover": "images/209502.jpg",
   "color": "#f1bb50",
-  "status": "NOT_YET_RELEASED",
+  "status": "RELEASING",
   "episodes": 12,
-  "duration": null,
+  "duration": 24,
   "genres": [
    "喜剧",
    "恋爱"
@@ -4021,7 +4412,11 @@ window.ANIME_DATA=[
   "streaming": [
    {
     "site": "Crunchyroll",
-    "url": "https://www.crunchyroll.com/"
+    "url": "https://www.crunchyroll.com/series/GT00384014/the-cold-sato-san-is-only-sweet-to-me"
+   },
+   {
+    "site": "Bilibili TV",
+    "url": "https://www.bilibili.tv/en/media/2433556"
    }
   ],
   "official": "https://shioama-anime.com",
@@ -4061,8 +4456,8 @@ window.ANIME_DATA=[
   "synopsis": "クラス中の高嶺の花、佐藤こはる。誰にも笑顔を見せない、通称“塩対応の佐藤さん”。\nでもある日、同じクラスの押尾颯太が、実家が営むカフェで見た佐藤さんの姿は……スイーツの写真を撮るため奮闘する、隙だらけの姿で!?\n本当は人見知りで不器用なだけの佐藤さんと、そんな佐藤さんのことが好きな押尾君。二人の距離は、スイーツとカメラをきっかけに、少しずつ縮まっていく。\nもどかしくて、愛おしい。世界で一番甘い両片想いに、きっとあなたもとろけてしまう――。\n不器用な二人が織りなす“甘くてしょっぱい”青春ラブコメディ！",
   "synopsisLang": "ja",
   "synopsisSrc": "Bangumi 番组计划",
-  "score": null,
-  "popularity": 8954,
+  "score": 68,
+  "popularity": 19505,
   "coverRemote": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx209502-C81oN8M4Smlo.jpg"
  },
  {
@@ -4087,14 +4482,14 @@ window.ANIME_DATA=[
   "dateConflict": false,
   "cover": "images/200294.jpg",
   "color": null,
-  "status": "NOT_YET_RELEASED",
+  "status": "RELEASING",
   "episodes": 12,
-  "duration": null,
+  "duration": 24,
   "genres": [
    "喜剧",
    "日常"
   ],
-  "source": null,
+  "source": "漫画改编",
   "studios": [
    "Arvo Animation"
   ],
@@ -4106,7 +4501,7 @@ window.ANIME_DATA=[
   "streaming": [
    {
     "site": "Crunchyroll",
-    "url": "https://www.crunchyroll.com/"
+    "url": "https://www.crunchyroll.com/series/GT00384013/super-psychic-policeman-chojo"
    }
   ],
   "official": "https://chojun-anime.com/",
@@ -4137,34 +4532,34 @@ window.ANIME_DATA=[
     "cv": "長縄まりあ"
    },
    {
+    "role": "ナレーター",
+    "cv": "窪田等"
+   },
+   {
+    "role": "署長",
+    "cv": "山崎たくみ"
+   },
+   {
     "role": "ホッさん",
     "cv": "金光宣明"
-   },
-   {
-    "role": "尖里りり",
-    "cv": "中村カンナ"
-   },
-   {
-    "role": "犬養由基",
-    "cv": "小野大輔"
    }
   ],
   "synopsisJa": null,
   "synopsis": "最強（？）バディが平和を守る！超能力ポリスコメディ!!\n読心術や千里眼、テレパシーといったありとあらゆる超能力を駆使する犯罪捜査のスペシャリスト「超条巡」\n柔道の有段者でその怪力からゴリラの異名をもつ新米警官「一本木直」\n最強(？)バディは今日も珍宿の平和を守る",
   "synopsisLang": "ja",
   "synopsisSrc": "Bangumi 番组计划",
-  "score": null,
-  "popularity": 2971,
+  "score": 64,
+  "popularity": 6712,
   "coverRemote": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx200294-E6KIgkFaJOfG.jpg"
  },
  {
   "id": 187990,
-  "malId": null,
+  "malId": 63818,
   "bgmId": 544378,
   "anilistUrl": "https://anilist.co/anime/187990",
   "ja": "Battle Spirits [Re] 絶界の空",
-  "romaji": "Battle Spirits [Re] Zekkai No Ku",
-  "en": null,
+  "romaji": "Battle Spirits [Re] Zekkai no Kuu",
+  "en": "Battle Spirits [Re] Zekkai No Ku",
   "zh": "战斗之魂[Re] 绝界之空",
   "format": "TV动画",
   "fmtKey": "TV",
@@ -4179,11 +4574,12 @@ window.ANIME_DATA=[
   "dateConflict": false,
   "cover": "images/187990.png",
   "color": "#f17835",
-  "status": "NOT_YET_RELEASED",
+  "status": "RELEASING",
   "episodes": 12,
-  "duration": null,
+  "duration": 24,
   "genres": [
-   "动作"
+   "动作",
+   "奇幻"
   ],
   "source": "其他",
   "studios": [
@@ -4194,7 +4590,16 @@ window.ANIME_DATA=[
   "tv": null,
   "tvOther": null,
   "bgmPlatform": null,
-  "streaming": [],
+  "streaming": [
+   {
+    "site": "Crunchyroll",
+    "url": "https://www.crunchyroll.com/series/GT00385703/battle-spirits-re-zekkai-no-ku"
+   },
+   {
+    "site": "YouTube",
+    "url": "https://www.youtube.com/playlist?list=PLWdHQdMNZfrM"
+   }
+  ],
   "official": "https://www.bn-pictures.co.jp/battlespirits/",
   "twitter": "https://x.com/bs_official",
   "staff": {
@@ -4230,8 +4635,8 @@ window.ANIME_DATA=[
   "synopsis": "慶鳳三年、日の本衛戸、後に幕末と呼ばれる嵐の時代\n\n武士のみに許された、命を懸けたエターナルと呼ばれる決闘(バトル)\nそして、民衆の間に命のやり取りがないスタンダードバトルが広まりつつあった\n二つの魂が交わり、歴史が動く――",
   "synopsisLang": "ja",
   "synopsisSrc": "Bangumi 番组计划",
-  "score": null,
-  "popularity": 904,
+  "score": 48,
+  "popularity": 1805,
   "coverRemote": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx187990-tNyQPmr9TkYi.png"
  },
  {
@@ -4256,9 +4661,9 @@ window.ANIME_DATA=[
   "dateConflict": false,
   "cover": "images/207329.png",
   "color": "#f1e4c9",
-  "status": "NOT_YET_RELEASED",
+  "status": "RELEASING",
   "episodes": 12,
-  "duration": null,
+  "duration": 24,
   "genres": [
    "冒险",
    "喜剧",
@@ -4277,7 +4682,15 @@ window.ANIME_DATA=[
   "streaming": [
    {
     "site": "Crunchyroll",
-    "url": "https://crunchyroll.com/series/GT00384016/the-laid-off-cheat-granting-mage-enjoys-a-second-lease-on-life"
+    "url": "https://www.crunchyroll.com/series/GT00384016/"
+   },
+   {
+    "site": "YouTube",
+    "url": "https://www.youtube.com/playlist?list=PLcCDyXGi-y_w"
+   },
+   {
+    "site": "Bilibili TV",
+    "url": "https://www.bilibili.tv/en/media/2432178"
    }
   ],
   "official": "https://sh-anime.shochiku.co.jp/chiifuyo-anime/",
@@ -4318,8 +4731,8 @@ window.ANIME_DATA=[
   "synopsis": "赋予魔术师雷恩突然被公会逐出。他非但没有绝望，反而收回以往施加在同伴装备上的大量强化点数，以冒险者身份开启新生活。聚集在他身边的，尽是身负重创的异类：心灵封闭的天才、失去亲人的战士，自幼被培育成杀手的暗杀者。雷恩都温柔地接纳了他们的过去与伤痕。在这个存在乌兹冲锋枪与黑道，过度依赖科技还会削弱魔力的幻想世界中。面对凶恶魔物与黑帮的阴谋，失意者们凭魔力与信念战斗，正式展开破天荒的第二人生！",
   "synopsisLang": "zh",
   "synopsisSrc": "Bangumi 番组计划",
-  "score": null,
-  "popularity": 7169,
+  "score": 73,
+  "popularity": 36166,
   "coverRemote": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b207329-6VPeZIDfF4Sr.png"
  },
  {
@@ -4342,9 +4755,9 @@ window.ANIME_DATA=[
   "weekday": 2,
   "bgmDate": "2026-10-07",
   "dateConflict": false,
-  "cover": "images/152677.jpg",
-  "color": "#93a1e4",
-  "status": "NOT_YET_RELEASED",
+  "cover": "images/152677.png",
+  "color": null,
+  "status": "RELEASING",
   "episodes": 13,
   "duration": null,
   "genres": [
@@ -4406,9 +4819,9 @@ window.ANIME_DATA=[
   "synopsis": "「君、私の助手になってよ」\n巻き込まれ体質の少年・君塚君彦は、上空一万メートルを飛ぶ飛行機の中、《世界の敵》と戦う《名探偵》の少女・シエスタの助手となった。それから二人は、三年にもわたって世界中を飛び回り、目も眩むような冒険劇を繰り広げ、そして激闘の果てに――死に別れた。\nシエスタの死から一年。一人生き残ってしまった君塚の元に、依頼人を名乗る少女・夏凪渚が現れる。彼女の依頼を受けて再び助手となった君塚は、やがて《名探偵》の死の真相に辿り着いた――。\nしかし、その真相に触れて、君塚たちは知っていく。完全無欠の名探偵が犯したミスを。《名探偵》の遺志を継ぐことの真の意味を。\n探偵はもう、死んでいる。死の真相も明かされた。\nでも、エピローグにはまだ早い",
   "synopsisLang": "ja",
   "synopsisSrc": "Bangumi 番组计划",
-  "score": null,
-  "popularity": 21785,
-  "coverRemote": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx152677-xVKqY1rqKK75.jpg"
+  "score": 71,
+  "popularity": 25316,
+  "coverRemote": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx152677-gtJbgjE94lCN.png"
  },
  {
   "id": 211778,
@@ -4432,9 +4845,9 @@ window.ANIME_DATA=[
   "dateConflict": false,
   "cover": "images/211778.jpg",
   "color": "#5dbbf1",
-  "status": "NOT_YET_RELEASED",
+  "status": "RELEASING",
   "episodes": 12,
-  "duration": null,
+  "duration": 24,
   "genres": [
    "动作",
    "喜剧",
@@ -4453,7 +4866,15 @@ window.ANIME_DATA=[
   "streaming": [
    {
     "site": "Crunchyroll",
-    "url": "https://www.crunchyroll.com/"
+    "url": "https://www.crunchyroll.com/series/GT00384009/the-worlds-strongest-witch"
+   },
+   {
+    "site": "Bilibili TV",
+    "url": "https://www.bilibili.tv/en/media/2432827"
+   },
+   {
+    "site": "YouTube",
+    "url": "https://www.youtube.com/playlist?list=PLLJ_VmZxSJuY"
    }
   ],
   "official": "https://sekamajo-anime.com/",
@@ -4493,8 +4914,8 @@ window.ANIME_DATA=[
   "synopsis": "因为觉醒了最弱等级技能，而被家族扫地出门的少女·罗娜。\n然而那项技能的真面目，居然是能够浏览这个世界的「攻略网站」的SSS级作弊技能【互联网】！\n为了追求自由和平的生活而踏上旅程的「世界最强的魔女」罗娜，她那无厘头的冒险日常，终于动画化！",
   "synopsisLang": "zh",
   "synopsisSrc": "Bangumi 番组计划",
-  "score": null,
-  "popularity": 5878,
+  "score": 69,
+  "popularity": 15363,
   "coverRemote": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx211778-0MXK5HqVFBYH.jpg"
  },
  {
@@ -4508,20 +4929,20 @@ window.ANIME_DATA=[
   "zh": "佐佐木与文鸟小哔 第二季",
   "format": "TV动画",
   "fmtKey": "TV",
-  "jstReal": "10/07 23:00",
+  "jstReal": "10/07 22:00",
   "realDate": "2026-10-07",
-  "realTime": "23:00",
+  "realTime": "22:00",
   "airTimeExact": true,
   "date": "2026-10-07",
-  "time": "23:00",
+  "time": "22:00",
   "weekday": 2,
   "bgmDate": "2026-10-07",
   "dateConflict": false,
   "cover": "images/176314.jpg",
   "color": "#1a78d6",
-  "status": "NOT_YET_RELEASED",
+  "status": "RELEASING",
   "episodes": 12,
-  "duration": null,
+  "duration": 24,
   "genres": [
    "喜剧",
    "奇幻",
@@ -4540,6 +4961,10 @@ window.ANIME_DATA=[
    {
     "site": "Crunchyroll",
     "url": "https://www.crunchyroll.com/series/G5PHNM935/sasaki-and-peeps"
+   },
+   {
+    "site": "Bilibili TV",
+    "url": "https://www.bilibili.tv/en/media/2412591"
    }
   ],
   "official": "https://sasapi-anime.com/",
@@ -4585,8 +5010,8 @@ window.ANIME_DATA=[
   "synopsis": "佐佐木在宠物店买到的，是从异世界转生而来，大名鼎鼎的贤者大人。\n「吾名毕耶尔卡洛，乃异界之徒兼星之贤者。」但还是文鸟。佐佐木替这只可爱的宠物取名为「小哔」并一同生活。\n贤者大人给予他的是来往异世界的机会与魔法的力量。下班回家之后，他们就尽情享受异世界生活！最后甚至将在现代日本买到的物品带到异世界经商。佐佐木时而异世界赚点钱，时而接受小哔的魔法训练，时而享受美食。在剑与魔法的奇幻世界中，疗愈因为社畜生活而疲惫的身心。\n某一天。当佐佐木下班回家的途中遇到所谓的「异能力者」。他用小哔教的魔法从异能战斗中脱困，却也因此被误以为是异能力者，而受到国家机关「超常现象对策局」挖角。\n摆脱社畜！摆脱黑心公司！然而，往后似乎也不会过上……安稳的公务员生活……\n与一只文鸟的邂逅，替佐佐木的日常生活带来巨大的变化。一段以异世界与现代日本为舞台，异世界奇幻×异能战斗的故事就此揭开序幕",
   "synopsisLang": "zh",
   "synopsisSrc": "Bangumi 番组计划",
-  "score": null,
-  "popularity": 10388,
+  "score": 68,
+  "popularity": 14305,
   "coverRemote": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx176314-lpvca6vjmkeO.jpg"
  },
  {
@@ -4611,7 +5036,7 @@ window.ANIME_DATA=[
   "dateConflict": false,
   "cover": "images/178868.jpg",
   "color": "#e4a150",
-  "status": "NOT_YET_RELEASED",
+  "status": "RELEASING",
   "episodes": 21,
   "duration": null,
   "genres": [
@@ -4677,8 +5102,8 @@ window.ANIME_DATA=[
   "synopsis": "狮堂光、龙咲海、凤凰寺风在户外教学来到东京铁塔时，突然被召唤到了异世界「塞费罗」。在那里，三人得知一直守护「塞费罗」和平与秩序的艾梅洛德公主遭人囚禁，世界正陷入危机。为了拯救「塞费罗」，被艾梅洛德公主召唤的三位少女，究竟能否成为传说中的「魔法骑士」，拯救公主与这个世界呢？",
   "synopsisLang": "zh",
   "synopsisSrc": "Bangumi 番组计划",
-  "score": null,
-  "popularity": 7799,
+  "score": 68,
+  "popularity": 11137,
   "coverRemote": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx178868-mfp0HIHNJNAm.jpg"
  },
  {
@@ -4703,7 +5128,7 @@ window.ANIME_DATA=[
   "dateConflict": false,
   "cover": "images/213068.png",
   "color": "#5daef1",
-  "status": "NOT_YET_RELEASED",
+  "status": "RELEASING",
   "episodes": 12,
   "duration": null,
   "genres": [
@@ -4723,7 +5148,7 @@ window.ANIME_DATA=[
   "streaming": [
    {
     "site": "Crunchyroll",
-    "url": "https://www.crunchyroll.com/"
+    "url": "https://www.crunchyroll.com/series/GT00385792/dandivine"
    }
   ],
   "official": "https://gattaishin.com/dandivine/",
@@ -4764,8 +5189,8 @@ window.ANIME_DATA=[
   "synopsis": "自从合体机器人「丹帝拜恩」击败了神秘敌人「暗波斯多」后，已经过了20年。\n世界一片和平，然而过去将丹帝拜恩制成玩具风靡一时的「玩具制造商凯斯加」，却也因过度依赖丹帝拜恩，导致公司营运状况每况愈下。凯斯加社长「静寂弦十郎」因此盼望，即便搅乱和平，也要让丹帝拜恩复活。\n也许是上天听见了他的愿望，暗波斯多再次现身于东京。20年来无忧无虑、耽溺于和平的人们突然陷入了恐慌之中。正当所有人仓皇逃跑时，过去曾是主要驾驶员的叔叔「黑田勇作」，引领着高中生「静寂戟刃」坐进了丹帝拜恩。\n究竟，\n再次现身的暗波斯多，他究竟有什么目的？\n凯斯加会再次称霸玩具业界吗？\n全新的战斗即将揭开序幕！",
   "synopsisLang": "zh",
   "synopsisSrc": "Bangumi 番组计划",
-  "score": null,
-  "popularity": 1360,
+  "score": 50,
+  "popularity": 2751,
   "coverRemote": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx213068-aFSedkY5bQ4m.png"
  },
  {
@@ -4789,8 +5214,8 @@ window.ANIME_DATA=[
   "bgmDate": "2026-10-07",
   "dateConflict": false,
   "cover": "images/172192.jpg",
-  "color": "#f1a143",
-  "status": "NOT_YET_RELEASED",
+  "color": "#f19328",
+  "status": "RELEASING",
   "episodes": 12,
   "duration": null,
   "genres": [
@@ -4810,7 +5235,11 @@ window.ANIME_DATA=[
   "streaming": [
    {
     "site": "Crunchyroll",
-    "url": "https://www.crunchyroll.com/"
+    "url": "https://www.crunchyroll.com/series/GEXH3W207/a-returners-magic-should-be-special"
+   },
+   {
+    "site": "Bilibili TV",
+    "url": "https://www.bilibili.tv/en/media/2432495"
    }
   ],
   "official": "https://returners-magic.com/",
@@ -4842,9 +5271,85 @@ window.ANIME_DATA=[
   "synopsis": "不断侵蚀世界的异次元空间「影之世界」。\n为了避免最严重的灾害「影之迷宫」导致世界灭亡，\n戴基尔．阿曼德回到13年前的世界，重新过起了校园生活。\n风属性的魔法师罗曼蒂卡．埃鲁、\n迅捷的剑士普兰．舒纳泽，\n以及冰属性的魔剑士阿洁丝特．皇克拉恩。\n戴基尔在赫布里温学院生活期间，与三人成为伙伴，\n并为了攻略突然出现的「影之世界」而四处奔走。\n在短暂的安宁中，「罗曼蒂卡死亡」的恶梦袭向戴基尔。\n出现在他面前的，是「破灭的恶魔」达德涅夫。\n「我知道…那家伙是…罗曼蒂卡的仇人。」\n戴基尔下一场「逆向演算」就此展开！",
   "synopsisLang": "zh",
   "synopsisSrc": "Bangumi 番组计划",
-  "score": null,
-  "popularity": 22041,
-  "coverRemote": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx172192-L4pRzycNZOOF.jpg"
+  "score": 69,
+  "popularity": 30915,
+  "coverRemote": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx172192-W7P5xEUaxF3y.jpg"
+ },
+ {
+  "id": 188034,
+  "malId": 61227,
+  "bgmId": null,
+  "anilistUrl": "https://anilist.co/anime/188034",
+  "ja": "ガールズ＆パンツァー もっとらぶらぶ作戦です！",
+  "romaji": "Girls und Panzer: Motto Love Love Sakusen desu!",
+  "en": null,
+  "zh": null,
+  "format": "TV动画",
+  "fmtKey": "TV",
+  "jstReal": "10/08 23:30",
+  "realDate": "2026-10-08",
+  "realTime": "23:30",
+  "airTimeExact": true,
+  "date": "2026-10-08",
+  "time": "23:30",
+  "weekday": 3,
+  "bgmDate": null,
+  "dateConflict": false,
+  "cover": "images/188034.jpg",
+  "color": "#5086e4",
+  "status": "RELEASING",
+  "episodes": 12,
+  "duration": 24,
+  "genres": [
+   "喜剧"
+  ],
+  "source": "漫画改编",
+  "studios": [
+   "P.A.WORKS",
+   "Actas"
+  ],
+  "isSequel": true,
+  "prequel": null,
+  "tv": null,
+  "tvOther": null,
+  "bgmPlatform": null,
+  "streaming": [],
+  "official": "https://gup-mottolovelove.jp/",
+  "twitter": "https://x.com/garupan_love2",
+  "staff": {},
+  "cast": [
+   {
+    "role": "西住みほ",
+    "cv": "渕上舞"
+   },
+   {
+    "role": "武部沙織",
+    "cv": "茅野愛衣"
+   },
+   {
+    "role": "五十鈴華",
+    "cv": "尾崎真実"
+   },
+   {
+    "role": "秋山優花里",
+    "cv": "中上育実"
+   },
+   {
+    "role": "冷泉麻子",
+    "cv": "井口裕香"
+   },
+   {
+    "role": "角谷杏",
+    "cv": "福圓美里"
+   }
+  ],
+  "synopsisJa": null,
+  "synopsis": "A deep dive into the untold daily lives and the inter-school interactions of the Ooarai Girls' team and the other students (along with the colorful characters that surround them) who are wholeheartedly dedicated to the way of the tank!\n\n(Source: Official Website, translated)",
+  "synopsisLang": "en",
+  "synopsisSrc": "AniList（英文）",
+  "score": 73,
+  "popularity": 3992,
+  "coverRemote": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx188034-oRwVKBMezOOk.jpg"
  },
  {
   "id": 199594,
@@ -4868,13 +5373,13 @@ window.ANIME_DATA=[
   "dateConflict": false,
   "cover": "images/199594.jpg",
   "color": "#1a78d6",
-  "status": "NOT_YET_RELEASED",
+  "status": "RELEASING",
   "episodes": 12,
   "duration": null,
   "genres": [
    "日常"
   ],
-  "source": "原创动画",
+  "source": "其他",
   "studios": [
    "East Fish Studio"
   ],
@@ -4886,7 +5391,11 @@ window.ANIME_DATA=[
   "streaming": [
    {
     "site": "HIDIVE",
-    "url": "https://hidive.com"
+    "url": "https://www.hidive.com/season/39542"
+   },
+   {
+    "site": "YouTube",
+    "url": "https://www.youtube.com/playlist?list=PLJaKlqcb9GkQ"
    }
   ],
   "official": "https://tetsuryo-anime.com/",
@@ -4931,9 +5440,9 @@ window.ANIME_DATA=[
   "synopsis": "想要飞离日常，去哪里旅行。这样的念头曾有过无数次。\n在连将来想做什么都还不知道的日子里，总有一天想要找到能让自己全心投入的食物。\n在因新生活开始而沸腾的校园中，向美咲伸出援手的是铁路旅行同好会（通称：铁旅会）的成员们。\n随着铁轨不断延伸的世界，让美咲的心跳开始加速！\n在迎来20周年的《铁道娘》们工作的世界里，铁旅会为了寻找“心动”而踏上旅程。",
   "synopsisLang": "zh",
   "synopsisSrc": "Bangumi 番组计划",
-  "score": null,
-  "popularity": 2500,
-  "coverRemote": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx199594-O16SEeK1Bn7L.jpg"
+  "score": 58,
+  "popularity": 3958,
+  "coverRemote": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx199594-moYKzlfIH03U.jpg"
  },
  {
   "id": 212503,
@@ -4957,7 +5466,7 @@ window.ANIME_DATA=[
   "dateConflict": false,
   "cover": "images/212503.jpg",
   "color": "#4378e4",
-  "status": "NOT_YET_RELEASED",
+  "status": "RELEASING",
   "episodes": 12,
   "duration": null,
   "genres": [
@@ -4978,6 +5487,10 @@ window.ANIME_DATA=[
    {
     "site": "Crunchyroll",
     "url": "https://www.crunchyroll.com/series/GDKHZEP21/the-iceblade-sorcerer-shall-rule-the-world"
+   },
+   {
+    "site": "Bilibili TV",
+    "url": "https://www.bilibili.tv/en/media/2432333"
    }
   ],
   "official": "https://hyouken-anime.com/",
@@ -5017,8 +5530,8 @@ window.ANIME_DATA=[
   "synopsis": "身为「七大魔术师」之一、被誉为世界最强的「冰剑魔术师」雷伊·怀特，因不堪强大力量的痛苦而负伤隐退。三年后，他以平民身份进入精英云集的阿诺德魔术学院。虽然入学时饱受贵族魔术师们的蔑视，雷伊在对抗神秘组织「优生机关」的阴谋中证明了自己的实力，赢得同伴信任。跨越试练后，他与同伴准备挑战跨校「大规模魔术战」，然而，暗流涌动，其他七大魔术师亦纷纷展开行动，最强魔术师的学园生活再次揭开序幕！",
   "synopsisLang": "zh",
   "synopsisSrc": "Bangumi 番组计划",
-  "score": null,
-  "popularity": 11125,
+  "score": 67,
+  "popularity": 19313,
   "coverRemote": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx212503-sXBpRZr96c4e.jpg"
  },
  {
@@ -5041,11 +5554,11 @@ window.ANIME_DATA=[
   "weekday": 4,
   "bgmDate": "2026-10-09",
   "dateConflict": false,
-  "cover": "images/208367.png",
-  "color": "#285093",
-  "status": "NOT_YET_RELEASED",
+  "cover": "images/208367.jpg",
+  "color": "#3578bb",
+  "status": "RELEASING",
   "episodes": 4,
-  "duration": null,
+  "duration": 24,
   "genres": [
    "冒险",
    "超自然"
@@ -5094,8 +5607,8 @@ window.ANIME_DATA=[
   "synopsisLang": "ja",
   "synopsisSrc": "Bangumi 番组计划",
   "score": null,
-  "popularity": 213,
-  "coverRemote": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx208367-Z3OsCdeAopH4.png"
+  "popularity": 314,
+  "coverRemote": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx208367-qWKRaOpokGoG.jpg"
  },
  {
   "id": 186742,
@@ -5119,7 +5632,7 @@ window.ANIME_DATA=[
   "dateConflict": false,
   "cover": "images/186742.png",
   "color": "#35f1a1",
-  "status": "NOT_YET_RELEASED",
+  "status": "RELEASING",
   "episodes": 12,
   "duration": null,
   "genres": [
@@ -5138,7 +5651,7 @@ window.ANIME_DATA=[
   "streaming": [
    {
     "site": "Crunchyroll",
-    "url": "https://www.crunchyroll.com/"
+    "url": "https://www.crunchyroll.com/series/GT00383991/a-certain-dark-item"
    }
   ],
   "official": "https://toaru-project.com/item/",
@@ -5165,7 +5678,7 @@ window.ANIME_DATA=[
     "cv": "洲崎綾"
    },
    {
-    "role": "絹旗 最愛",
+    "role": "絹旗最愛",
     "cv": "赤﨑千夏"
    },
    {
@@ -5177,8 +5690,8 @@ window.ANIME_DATA=[
   "synopsis": "これは、学園都市の『暗部』に生きる少女たちの物語――。\n\n『超能力』が“一般科学”として認知された『学園都市』。その平和の裏には表沙汰にできない任務を請け負う『暗部』組織が存在する。\n『アイテム』――四人の少女で構成される精鋭部隊だ。能力者が発する微弱な力を読み取り追跡ができる滝壺理后。爆発物やトラップを用いた戦闘が得意なフレンダ=セイヴェルン。窒素を自在に操り防御を担う絹旗最愛。そして学園都市が誇る七人の超能力者の一角、麦野沈利。学園都市の暗闇を自由に生きる彼女たちが、静かに標的に狙いを定める――!\n\n「ブ・チ・コ・ロ・シ・か・く・て・い・ね」",
   "synopsisLang": "ja",
   "synopsisSrc": "Bangumi 番组计划",
-  "score": null,
-  "popularity": 7900,
+  "score": 69,
+  "popularity": 13912,
   "coverRemote": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx186742-v7yfbefc8fuO.png"
  },
  {
@@ -5205,7 +5718,7 @@ window.ANIME_DATA=[
   "color": "#aebb35",
   "status": "RELEASING",
   "episodes": 12,
-  "duration": null,
+  "duration": 23,
   "genres": [
    "剧情",
    "恋爱"
@@ -5222,7 +5735,7 @@ window.ANIME_DATA=[
   "streaming": [
    {
     "site": "Crunchyroll",
-    "url": "https://www.crunchyroll.com/"
+    "url": "https://www.crunchyroll.com/series/GT00383999"
    }
   ],
   "official": "https://hotaru-anime.com/",
@@ -5248,14 +5761,18 @@ window.ANIME_DATA=[
    {
     "role": "小川康太郎",
     "cv": "伊東健人"
+   },
+   {
+    "role": "紫",
+    "cv": "天希かのん"
    }
   ],
   "synopsisJa": "愛が重すぎる殺し屋×余命わずかな令嬢の狂愛ストーリー\n女は家の財産とされた時代――\n名家に生まれ美貌に恵まれるも、余命わずかと言われている伯爵家の令嬢・桐ヶ谷紗都子。そんな彼女の夢は名家に嫁ぎ、父の誇りになること。しかしある夜、何者かの企てによって連れ去られてしまう。\n絶体絶命の場面に居合わせた殺し屋・後藤進平に「私たち結婚しましょう。私と一緒になれば全てが手に入ります。」と咄嗟の嘘をつく紗都子。\n「運命の相手だ」と紗都子を狂愛する進平と自らの使命と進平への想いの間で揺れる紗都子の一途で許されぬ愛のかたち。",
   "synopsis": "爱太沉重的杀手×命不久矣千金的狂爱故事\n在女人被视为家中财产的时代——\n生于名门世家又天生丽质，却被宣告时日无多的伯爵家千金．桐谷纱都子。她的梦想是嫁入名门，成为父亲的骄傲。可是在某天夜里，她遭不明人士算计，被绑架了。\n面对正好在紧要关头时出现的杀手．后藤进平，纱都子情急之下撒谎说道：「我们结婚吧！只要跟我在一起，便能获得一切。」\n认定纱都子是「真命天女」，疯狂爱着她的进平，以及在自身使命与对进平的感情间摇摆不定的纱都子，两人专一却不被容许的恋情。",
   "synopsisLang": "zh",
   "synopsisSrc": "Bangumi 番组计划",
-  "score": null,
-  "popularity": 22099,
+  "score": 75,
+  "popularity": 41942,
   "coverRemote": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx205909-DM0fAzNQulod.jpg"
  },
  {
@@ -5280,9 +5797,9 @@ window.ANIME_DATA=[
   "dateConflict": false,
   "cover": "images/207327.jpg",
   "color": "#f1d6ae",
-  "status": "NOT_YET_RELEASED",
+  "status": "FINISHED",
   "episodes": 1,
-  "duration": null,
+  "duration": 116,
   "genres": [
    "悬疑",
    "恋爱"
@@ -5334,8 +5851,8 @@ window.ANIME_DATA=[
   "synopsis": "转学到自然环绕的离岛「采岐岛」的少年和希，在被称为「神隐海湾」的地方遇见了倒在地上的少女秋鹿七绪。七绪自称来自 1974 年，并在和希与当时恰好在场的高津先生协助下被保护了起来。出于好奇，和希开始在放学后频繁探望她，直到某天，七绪说出了令人震惊的秘密一当过去与现在交会，藏着各自秘密的两人，未来也将就此展开。本片改编自阿部晓子同名青春小说。原作以跨越时空的相遇、离别与救赎打动无数读者，电影细腻重现小说温柔而动人的情感世界。",
   "synopsisLang": "zh",
   "synopsisSrc": "Bangumi 番组计划",
-  "score": null,
-  "popularity": 11646,
+  "score": 66,
+  "popularity": 13253,
   "coverRemote": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx207327-OSrMbh8DrGE4.jpg"
  },
  {
@@ -5360,7 +5877,7 @@ window.ANIME_DATA=[
   "dateConflict": false,
   "cover": "images/202390.jpg",
   "color": null,
-  "status": "NOT_YET_RELEASED",
+  "status": "FINISHED",
   "episodes": 1,
   "duration": null,
   "genres": [
@@ -5412,85 +5929,9 @@ window.ANIME_DATA=[
   "synopsis": "The fifth film in the six-part Girls und Panzer: Saishuushou film series.",
   "synopsisLang": "en",
   "synopsisSrc": "AniList（英文）",
-  "score": null,
-  "popularity": 3621,
+  "score": 65,
+  "popularity": 3999,
   "coverRemote": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b202390-XrdgWaUKxDUg.jpg"
- },
- {
-  "id": 203473,
-  "malId": 63053,
-  "bgmId": 613256,
-  "anilistUrl": "https://anilist.co/anime/203473",
-  "ja": "恐怖コレクター",
-  "romaji": "Kyoufu Collector",
-  "en": "HORROR COLLECTOR",
-  "zh": "恐怖收集者",
-  "format": "TV动画",
-  "fmtKey": "TV",
-  "jstReal": "10/10 23:45",
-  "realDate": "2026-10-10",
-  "realTime": "23:45",
-  "airTimeExact": true,
-  "date": "2026-10-10",
-  "time": "23:45",
-  "weekday": 5,
-  "bgmDate": "2026-10-10",
-  "dateConflict": false,
-  "cover": "images/203473.jpg",
-  "color": null,
-  "status": "NOT_YET_RELEASED",
-  "episodes": 12,
-  "duration": null,
-  "genres": [
-   "恐怖",
-   "悬疑",
-   "超自然"
-  ],
-  "source": "小说改编",
-  "studios": [
-   "Studio Palette"
-  ],
-  "isSequel": false,
-  "prequel": null,
-  "tv": "NHK総合テレビ",
-  "tvOther": null,
-  "bgmPlatform": null,
-  "streaming": [
-   {
-    "site": "Crunchyroll",
-    "url": "https://www.crunchyroll.com/"
-   }
-  ],
-  "official": "https://www.nhk-character.com/chara/kyoufucollector",
-  "twitter": "https://x.com/nep_horcol",
-  "staff": {
-   "原作": "佐東みどり、鶴田法男"
-  },
-  "cast": [
-   {
-    "role": "千野フシギ",
-    "cv": "石橋陽彩"
-   },
-   {
-    "role": "ジミー",
-    "cv": "福山潤"
-   },
-   {
-    "role": "千野ヒミツ",
-    "cv": "早見沙織"
-   },
-   {
-    "role": "青い傘の男",
-    "cv": "岡本信彦"
-   }
-  ],
-  "synopsisJa": null,
-  "synopsis": "ただのウワサと思われていた都市伝説が次々と現実になっていく・・・。\n\n赤いフードをかぶった少年・千野フシギは、具現化した都市伝説を自身の手帳に回収\nするため、各地を旅している。\nその目的は、都市伝説を具現化する少女・ヒミツを捕まえること。\nフシギは、相棒の人面犬・ジミーとともに次々に巻き起こる怪奇現象に挑みながら、\nヒミツへと迫っていく。\n\n果たして、少年少女の追走劇の行く末は−。",
-  "synopsisLang": "ja",
-  "synopsisSrc": "Bangumi 番组计划",
-  "score": null,
-  "popularity": 3722,
-  "coverRemote": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b203473-pzyaqV432Qko.jpg"
  },
  {
   "id": 195571,
@@ -5503,20 +5944,20 @@ window.ANIME_DATA=[
   "zh": "朱色假面",
   "format": "TV动画",
   "fmtKey": "TV",
-  "jstReal": null,
+  "jstReal": "10/10 17:30",
   "realDate": "2026-10-10",
-  "realTime": null,
-  "airTimeExact": false,
+  "realTime": "17:30",
+  "airTimeExact": true,
   "date": "2026-10-10",
-  "time": null,
+  "time": "17:30",
   "weekday": 5,
   "bgmDate": "2026-10-10",
   "dateConflict": false,
   "cover": "images/195571.jpg",
   "color": "#e4bb5d",
-  "status": "NOT_YET_RELEASED",
+  "status": "RELEASING",
   "episodes": 12,
-  "duration": null,
+  "duration": 24,
   "genres": [
    "动作",
    "剧情",
@@ -5534,7 +5975,7 @@ window.ANIME_DATA=[
   "streaming": [
    {
     "site": "Crunchyroll",
-    "url": "https://www.crunchyroll.com/"
+    "url": "https://www.crunchyroll.com/watch/GE00384363JAJP"
    }
   ],
   "official": "https://the-vermilion-mask.com/",
@@ -5574,238 +6015,93 @@ window.ANIME_DATA=[
   "synopsis": "挺身迎战。面对强大的敌人。以及自己的命运。「面具」（暂译）会赋予佩戴者力量。有时能无限拓展可能性，有时却会带来难以想象的灾祸。传说中的面具职人的弟子佩尔（暂译），被偶然拿起的「武神面具」所操纵而失去理智暴走，无意间亲手杀害了同伴与师父。在绝望中，佩尔立志要销毁世界上全部由师父打造的面具。他直面自己犯下的错误，踏上了赎罪的旅程。与新友人的相遇，以及与强敌的对峙。围绕「面具」的战斗幻想曲，正式开幕！",
   "synopsisLang": "zh",
   "synopsisSrc": "Bangumi 番组计划",
-  "score": null,
-  "popularity": 6923,
+  "score": 68,
+  "popularity": 14326,
   "coverRemote": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx195571-fvj7u5GI7BRT.jpg"
  },
  {
-  "id": 213658,
-  "malId": 64505,
-  "bgmId": 664395,
-  "anilistUrl": "https://anilist.co/anime/213658",
-  "ja": "ダイヤのA actⅡ -Second Season- 第2クール",
-  "romaji": "Diamond no Ace act II: Second Season Part 2",
-  "en": "Ace of the Diamond act II -Second Season-",
-  "zh": "钻石王牌 act2 第二季 第2部分",
+  "id": 203473,
+  "malId": 63053,
+  "bgmId": 613256,
+  "anilistUrl": "https://anilist.co/anime/203473",
+  "ja": "恐怖コレクター",
+  "romaji": "Kyoufu Collector",
+  "en": "HORROR COLLECTOR",
+  "zh": "恐怖收集者",
   "format": "TV动画",
   "fmtKey": "TV",
-  "jstReal": "10/11 17:30",
-  "realDate": "2026-10-11",
-  "realTime": "17:30",
+  "jstReal": "10/10 23:45",
+  "realDate": "2026-10-10",
+  "realTime": "23:45",
   "airTimeExact": true,
-  "date": "2026-10-11",
-  "time": "17:30",
-  "weekday": 6,
-  "bgmDate": "2026-10-11",
+  "date": "2026-10-10",
+  "time": "23:45",
+  "weekday": 5,
+  "bgmDate": "2026-10-10",
   "dateConflict": false,
-  "cover": "images/213658.png",
-  "color": "#1a93d6",
-  "status": "NOT_YET_RELEASED",
+  "cover": "images/203473.jpg",
+  "color": null,
+  "status": "RELEASING",
   "episodes": 12,
-  "duration": null,
+  "duration": 25,
   "genres": [
-   "运动"
+   "恐怖",
+   "悬疑",
+   "超自然"
   ],
-  "source": "漫画改编",
+  "source": "小说改编",
   "studios": [
-   "OLM"
-  ],
-  "isSequel": true,
-  "prequel": "ダイヤのA actII -Second Season-",
-  "tv": "テレ東系6局",
-  "tvOther": null,
-  "bgmPlatform": null,
-  "streaming": [
-   {
-    "site": "Crunchyroll",
-    "url": "https://www.crunchyroll.com/series/GYX0MZ58R/ace-of-the-diamond"
-   }
-  ],
-  "official": "https://diaace.com/",
-  "twitter": "https://x.com/diaace_official",
-  "staff": {
-   "原作": "寺嶋裕二（講談社「週刊少年マガジン」所載）"
-  },
-  "cast": [
-   {
-    "role": "沢村栄純",
-    "cv": "逢坂良太"
-   },
-   {
-    "role": "御幸一也",
-    "cv": "櫻井孝宏"
-   },
-   {
-    "role": "降谷暁",
-    "cv": "島﨑信長"
-   },
-   {
-    "role": "小湊春市",
-    "cv": "花江夏樹"
-   },
-   {
-    "role": "成宮鳴",
-    "cv": "梶裕貴"
-   },
-   {
-    "role": "真田俊平",
-    "cv": "神谷浩史"
-   }
-  ],
-  "synopsisJa": null,
-  "synopsis": "The second cour of the second season of Diamond no Ace act II.",
-  "synopsisLang": "en",
-  "synopsisSrc": "AniList（英文）",
-  "score": null,
-  "popularity": 2791,
-  "coverRemote": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx213658-D3BPJaqawLxS.png"
- },
- {
-  "id": 206814,
-  "malId": 63367,
-  "bgmId": 623249,
-  "anilistUrl": "https://anilist.co/anime/206814",
-  "ja": "ドラゴンボール超 ビルス",
-  "romaji": "Dragon Ball Super: Beerus",
-  "en": "Dragon Ball Super: Beerus",
-  "zh": "龙珠超 比鲁斯",
-  "format": "TV动画",
-  "fmtKey": "TV",
-  "jstReal": "10/11 23:16",
-  "realDate": "2026-10-11",
-  "realTime": "23:16",
-  "airTimeExact": true,
-  "date": "2026-10-11",
-  "time": "23:16",
-  "weekday": 6,
-  "bgmDate": "2026-10-11",
-  "dateConflict": false,
-  "cover": "images/206814.jpg",
-  "color": "#e48643",
-  "status": "NOT_YET_RELEASED",
-  "episodes": 12,
-  "duration": null,
-  "genres": [
-   "动作",
-   "冒险",
-   "科幻"
-  ],
-  "source": "动画衍生",
-  "studios": [
-   "Toei Animation"
-  ],
-  "isSequel": true,
-  "prequel": "ドラゴンボールZ",
-  "tv": "フジテレビ",
-  "tvOther": null,
-  "bgmPlatform": null,
-  "streaming": [
-   {
-    "site": "Netflix",
-    "url": "https://www.netflix.com/title/83189604"
-   }
-  ],
-  "official": "https://dragonball-super.com/",
-  "twitter": "https://x.com/DB_anime_info",
-  "staff": {
-   "人物设定": "鳥山明；动画人物设定：山室直儀",
-   "音乐": "住友紀人",
-   "总作画监督": "山室直儀",
-   "摄影监督": "元木洋介"
-  },
-  "cast": [],
-  "synopsisJa": null,
-  "synopsis": "鳥山明先生による世界的大人気漫画作品『DRAGON BALL』（ドラゴンボール）。TVアニメ・映画・ゲームなど様々なメディアミックスでファンを魅了しながら、モンスタータイトルとして全世界で桁外れの人気を誇る。\nそして、2026年―。鳥山明先生が原作・ストーリー・キャラクターデザインを手掛けるアニメ『ドラゴンボール超』が『ドラゴンボール超 ビルス』として新たに始動！ 本作では、大幅な新規カットの追加や描き直し、さらに物語の再構築を行い“エンハンスド”。最新の映像表現により、バトルシーンのさらなる臨場感と、より精密な原作再現がほどこされたエンハンスド版としてここに登場する。\n\n魔人ブウとの壮絶な闘いから数年が経ち、地球は束の間の平和を取り戻していた。\n時を同じくして、長い眠りから目覚めた破壊神・ビルス。\n星々を破壊する圧倒的な力を持つビルスの目覚めを、界王や界王神たちですら畏れをもって見守っていたのだが…そのさなか、フリーザを倒したサイヤ人の噂を聞きつけたビルスは、突如悟空の前に現れるー。\nかつてない力を持つビルスの襲来により、消滅の危機に直面する地球・・・破壊神と悟空たちの宇宙を揺るがす超絶バトルが幕を開ける――。",
-  "synopsisLang": "ja",
-  "synopsisSrc": "Bangumi 番组计划",
-  "score": null,
-  "popularity": 12902,
-  "coverRemote": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx206814-PVVzRbf1IQpe.jpg"
- },
- {
-  "id": 205896,
-  "malId": 63292,
-  "bgmId": 621073,
-  "anilistUrl": "https://anilist.co/anime/205896",
-  "ja": "信者ゼロの女神サマと始める異世界攻略",
-  "romaji": "Shinja Zero no Megami-sama to Hajimeru Isekai Kouryaku",
-  "en": "Full Clearing Another World under a Goddess with Zero Believers",
-  "zh": "和没有信徒的女神大人一起攻略异世界",
-  "format": "TV动画",
-  "fmtKey": "TV",
-  "jstReal": "10/11 23:30",
-  "realDate": "2026-10-11",
-  "realTime": "23:30",
-  "airTimeExact": true,
-  "date": "2026-10-11",
-  "time": "23:30",
-  "weekday": 6,
-  "bgmDate": "2026-10-11",
-  "dateConflict": false,
-  "cover": "images/205896.jpg",
-  "color": "#5dbbe4",
-  "status": "NOT_YET_RELEASED",
-  "episodes": 12,
-  "duration": null,
-  "genres": [
-   "冒险",
-   "奇幻"
-  ],
-  "source": "轻小说改编",
-  "studios": [
-   "HORNETS"
+   "Studio Palette"
   ],
   "isSequel": false,
   "prequel": null,
-  "tv": "BS朝日",
+  "tv": "NHK総合テレビ",
   "tvOther": null,
   "bgmPlatform": null,
   "streaming": [
    {
     "site": "Crunchyroll",
-    "url": "https://www.crunchyroll.com/"
+    "url": "https://www.crunchyroll.com/series/GT00383993"
    }
   ],
-  "official": "https://zero-believers-anime.com/",
-  "twitter": "https://x.com/zero_believers",
+  "official": "https://www.nhk-character.com/chara/kyoufucollector",
+  "twitter": "https://x.com/nep_horcol",
   "staff": {
-   "原作": "大崎アイル （オーバーラップ文庫刊）、しろいはくと （「コミックガルド」連載）",
-   "导演": "福島利規",
-   "人物设定": "伊藤憲子"
+   "原作": "佐東みどり、鶴田法男"
   },
   "cast": [
    {
-    "role": "高月マコト",
-    "cv": "堀金蒼平"
+    "role": "千野フシギ",
+    "cv": "石橋陽彩"
    },
    {
-    "role": "ノア・ティターン",
-    "cv": "長谷川育美"
+    "role": "ジミー",
+    "cv": "福山潤"
    },
    {
-    "role": "ルーシー",
-    "cv": "首藤志奈"
+    "role": "千野ヒミツ",
+    "cv": "早見沙織"
    },
    {
-    "role": "桜井リョウスケ",
-    "cv": "小野賢章"
+    "role": "青い傘の男",
+    "cv": "岡本信彦"
    },
    {
-    "role": "ソフィア",
-    "cv": "鈴代紗弓"
+    "role": "紺野沙知子",
+    "cv": "菱川花菜"
    },
    {
-    "role": "ニナ",
-    "cv": "Lynn"
+    "role": "MOMO",
+    "cv": "平塚紗依"
    }
   ],
   "synopsisJa": null,
-  "synopsis": "生粋のゲーマーである高校生・高月マコトは、合宿帰りの事故でクラスメイトと共に異世界へ転移してしまう。\nしかし、マコトにだけチート能力が与えられず、最弱の\"魔法使い見習い\"として異世界を生き抜くことに。\nそんなマコトの前に、信者ゼロのマイナー女神・ノアが現れる。\n必死の勧誘を受け、一人目の信者になるも、女神ノアには秘密があるようで……。\n攻略難度は最上級。常識破りの方法で女神と最強に至る異世界攻略ファンタジー、開幕！",
+  "synopsis": "ただのウワサと思われていた都市伝説が次々と現実になっていく・・・。\n\n赤いフードをかぶった少年・千野フシギは、具現化した都市伝説を自身の手帳に回収\nするため、各地を旅している。\nその目的は、都市伝説を具現化する少女・ヒミツを捕まえること。\nフシギは、相棒の人面犬・ジミーとともに次々に巻き起こる怪奇現象に挑みながら、\nヒミツへと迫っていく。\n\n果たして、少年少女の追走劇の行く末は−。",
   "synopsisLang": "ja",
   "synopsisSrc": "Bangumi 番组计划",
-  "score": null,
-  "popularity": 4630,
-  "coverRemote": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx205896-ElrV8oVAsuax.jpg"
+  "score": 49,
+  "popularity": 6058,
+  "coverRemote": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b203473-pzyaqV432Qko.jpg"
  },
  {
   "id": 213657,
@@ -5818,18 +6114,18 @@ window.ANIME_DATA=[
   "zh": "夜樱家的大作战 第二季 第2部分",
   "format": "TV动画",
   "fmtKey": "TV",
-  "jstReal": null,
+  "jstReal": "10/11 17:00",
   "realDate": "2026-10-11",
-  "realTime": null,
-  "airTimeExact": false,
+  "realTime": "17:00",
+  "airTimeExact": true,
   "date": "2026-10-11",
-  "time": null,
+  "time": "17:00",
   "weekday": 6,
   "bgmDate": "2026-10-11",
   "dateConflict": false,
   "cover": "images/213657.jpg",
   "color": "#5dbbe4",
-  "status": "NOT_YET_RELEASED",
+  "status": "RELEASING",
   "episodes": 12,
   "duration": null,
   "genres": [
@@ -5884,9 +6180,259 @@ window.ANIME_DATA=[
   "synopsis": "The second cour of the second season of Yozakura-san Chi no Daisakusen.",
   "synopsisLang": "en",
   "synopsisSrc": "AniList（英文）",
-  "score": null,
-  "popularity": 6326,
+  "score": 71,
+  "popularity": 9247,
   "coverRemote": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx213657-ORNXVEBCjXaz.jpg"
+ },
+ {
+  "id": 213658,
+  "malId": 64505,
+  "bgmId": 664395,
+  "anilistUrl": "https://anilist.co/anime/213658",
+  "ja": "ダイヤのA actⅡ -Second Season- 第2クール",
+  "romaji": "Diamond no Ace act II: Second Season Part 2",
+  "en": "Ace of the Diamond act II -Second Season-",
+  "zh": "钻石王牌 act2 第二季 第2部分",
+  "format": "TV动画",
+  "fmtKey": "TV",
+  "jstReal": "10/11 17:30",
+  "realDate": "2026-10-11",
+  "realTime": "17:30",
+  "airTimeExact": true,
+  "date": "2026-10-11",
+  "time": "17:30",
+  "weekday": 6,
+  "bgmDate": "2026-10-11",
+  "dateConflict": false,
+  "cover": "images/213658.png",
+  "color": "#1a93d6",
+  "status": "RELEASING",
+  "episodes": 12,
+  "duration": 23,
+  "genres": [
+   "运动"
+  ],
+  "source": "漫画改编",
+  "studios": [
+   "OLM"
+  ],
+  "isSequel": true,
+  "prequel": "ダイヤのA actII -Second Season-",
+  "tv": "テレ東系6局",
+  "tvOther": null,
+  "bgmPlatform": null,
+  "streaming": [
+   {
+    "site": "Crunchyroll",
+    "url": "https://www.crunchyroll.com/series/GYX0MZ58R/ace-of-the-diamond"
+   }
+  ],
+  "official": "https://diaace.com/",
+  "twitter": "https://x.com/diaace_official",
+  "staff": {
+   "原作": "寺嶋裕二（講談社「週刊少年マガジン」所載）"
+  },
+  "cast": [
+   {
+    "role": "沢村栄純",
+    "cv": "逢坂良太"
+   },
+   {
+    "role": "御幸一也",
+    "cv": "櫻井孝宏"
+   },
+   {
+    "role": "降谷暁",
+    "cv": "島﨑信長"
+   },
+   {
+    "role": "小湊春市",
+    "cv": "花江夏樹"
+   },
+   {
+    "role": "成宮鳴",
+    "cv": "梶裕貴"
+   },
+   {
+    "role": "真田俊平",
+    "cv": "神谷浩史"
+   }
+  ],
+  "synopsisJa": null,
+  "synopsis": "The Seido baseball club has been invited to the spring invitational at the hallowed Koshien Stadium. Sawamura will finally stand on the mound! Standing between Seido and the national title are the winners of last year's summer tournament Komadai Fujimaki and their unstoppable ace Masamune Hongo. Can Seido triumph over Komadai? It's the start of another heated battle in youth baseball!",
+  "synopsisLang": "en",
+  "synopsisSrc": "AniList（英文）",
+  "score": 76,
+  "popularity": 3937,
+  "coverRemote": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx213658-D3BPJaqawLxS.png"
+ },
+ {
+  "id": 206814,
+  "malId": 63367,
+  "bgmId": 623249,
+  "anilistUrl": "https://anilist.co/anime/206814",
+  "ja": "ドラゴンボール超 ビルス",
+  "romaji": "Dragon Ball Super: Beerus",
+  "en": "Dragon Ball Super: Beerus",
+  "zh": "龙珠超 比鲁斯",
+  "format": "TV动画",
+  "fmtKey": "TV",
+  "jstReal": "10/11 23:16",
+  "realDate": "2026-10-11",
+  "realTime": "23:16",
+  "airTimeExact": true,
+  "date": "2026-10-11",
+  "time": "23:16",
+  "weekday": 6,
+  "bgmDate": "2026-10-11",
+  "dateConflict": false,
+  "cover": "images/206814.jpg",
+  "color": "#e48643",
+  "status": "RELEASING",
+  "episodes": 12,
+  "duration": 23,
+  "genres": [
+   "动作",
+   "冒险",
+   "科幻"
+  ],
+  "source": "动画衍生",
+  "studios": [
+   "Toei Animation"
+  ],
+  "isSequel": true,
+  "prequel": "ドラゴンボールZ",
+  "tv": "フジテレビ",
+  "tvOther": null,
+  "bgmPlatform": null,
+  "streaming": [
+   {
+    "site": "Netflix",
+    "url": "https://www.netflix.com/title/83189604"
+   },
+   {
+    "site": "Crunchyroll",
+    "url": "https://www.crunchyroll.com/series/GT00389311/dragon-ball-super-beerus"
+   }
+  ],
+  "official": "https://dragonball-super.com/",
+  "twitter": "https://x.com/DB_anime_info",
+  "staff": {
+   "人物设定": "鳥山明；动画人物设定：山室直儀",
+   "音乐": "住友紀人",
+   "总作画监督": "山室直儀",
+   "摄影监督": "元木洋介"
+  },
+  "cast": [
+   {
+    "role": "孫悟空",
+    "cv": "野沢雅子"
+   },
+   {
+    "role": "ベジータ",
+    "cv": "堀川りょう"
+   },
+   {
+    "role": "ウイス",
+    "cv": "森田成一"
+   },
+   {
+    "role": "ビルス",
+    "cv": "山寺宏一"
+   }
+  ],
+  "synopsisJa": null,
+  "synopsis": "鳥山明先生による世界的大人気漫画作品『DRAGON BALL』（ドラゴンボール）。TVアニメ・映画・ゲームなど様々なメディアミックスでファンを魅了しながら、モンスタータイトルとして全世界で桁外れの人気を誇る。\nそして、2026年―。鳥山明先生が原作・ストーリー・キャラクターデザインを手掛けるアニメ『ドラゴンボール超』が『ドラゴンボール超 ビルス』として新たに始動！ 本作では、大幅な新規カットの追加や描き直し、さらに物語の再構築を行い“エンハンスド”。最新の映像表現により、バトルシーンのさらなる臨場感と、より精密な原作再現がほどこされたエンハンスド版としてここに登場する。\n\n魔人ブウとの壮絶な闘いから数年が経ち、地球は束の間の平和を取り戻していた。\n時を同じくして、長い眠りから目覚めた破壊神・ビルス。\n星々を破壊する圧倒的な力を持つビルスの目覚めを、界王や界王神たちですら畏れをもって見守っていたのだが…そのさなか、フリーザを倒したサイヤ人の噂を聞きつけたビルスは、突如悟空の前に現れるー。\nかつてない力を持つビルスの襲来により、消滅の危機に直面する地球・・・破壊神と悟空たちの宇宙を揺るがす超絶バトルが幕を開ける――。",
+  "synopsisLang": "ja",
+  "synopsisSrc": "Bangumi 番组计划",
+  "score": 81,
+  "popularity": 26268,
+  "coverRemote": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx206814-PVVzRbf1IQpe.jpg"
+ },
+ {
+  "id": 205896,
+  "malId": 63292,
+  "bgmId": 621073,
+  "anilistUrl": "https://anilist.co/anime/205896",
+  "ja": "信者ゼロの女神サマと始める異世界攻略",
+  "romaji": "Shinja Zero no Megami-sama to Hajimeru Isekai Kouryaku",
+  "en": "Full Clearing Another World under a Goddess with Zero Believers",
+  "zh": "和没有信徒的女神大人一起攻略异世界",
+  "format": "TV动画",
+  "fmtKey": "TV",
+  "jstReal": "10/11 23:30",
+  "realDate": "2026-10-11",
+  "realTime": "23:30",
+  "airTimeExact": true,
+  "date": "2026-10-11",
+  "time": "23:30",
+  "weekday": 6,
+  "bgmDate": "2026-10-11",
+  "dateConflict": false,
+  "cover": "images/205896.jpg",
+  "color": "#5dbbe4",
+  "status": "RELEASING",
+  "episodes": 12,
+  "duration": null,
+  "genres": [
+   "冒险",
+   "奇幻"
+  ],
+  "source": "轻小说改编",
+  "studios": [
+   "HORNETS"
+  ],
+  "isSequel": false,
+  "prequel": null,
+  "tv": "BS朝日",
+  "tvOther": null,
+  "bgmPlatform": null,
+  "streaming": [
+   {
+    "site": "Crunchyroll",
+    "url": "https://www.crunchyroll.com/series/GT00383992/full-clearing-another-world-under-a-goddess-with-zero-believers"
+   }
+  ],
+  "official": "https://zero-believers-anime.com/",
+  "twitter": "https://x.com/zero_believers",
+  "staff": {
+   "原作": "大崎アイル （オーバーラップ文庫刊）、しろいはくと （「コミックガルド」連載）",
+   "导演": "福島利規",
+   "人物设定": "伊藤憲子"
+  },
+  "cast": [
+   {
+    "role": "高月マコト",
+    "cv": "堀金蒼平"
+   },
+   {
+    "role": "ノア・ティターン",
+    "cv": "長谷川育美"
+   },
+   {
+    "role": "ルーシー",
+    "cv": "首藤志奈"
+   },
+   {
+    "role": "桜井リョウスケ",
+    "cv": "小野賢章"
+   },
+   {
+    "role": "ソフィア",
+    "cv": "鈴代紗弓"
+   },
+   {
+    "role": "ニナ",
+    "cv": "Lynn"
+   }
+  ],
+  "synopsisJa": null,
+  "synopsis": "生粋のゲーマーである高校生・高月マコトは、合宿帰りの事故でクラスメイトと共に異世界へ転移してしまう。\nしかし、マコトにだけチート能力が与えられず、最弱の\"魔法使い見習い\"として異世界を生き抜くことに。\nそんなマコトの前に、信者ゼロのマイナー女神・ノアが現れる。\n必死の勧誘を受け、一人目の信者になるも、女神ノアには秘密があるようで……。\n攻略難度は最上級。常識破りの方法で女神と最強に至る異世界攻略ファンタジー、開幕！",
+  "synopsisLang": "ja",
+  "synopsisSrc": "Bangumi 番组计划",
+  "score": 64,
+  "popularity": 15523,
+  "coverRemote": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx205896-ElrV8oVAsuax.jpg"
  },
  {
   "id": 198727,
@@ -5910,9 +6456,9 @@ window.ANIME_DATA=[
   "dateConflict": false,
   "cover": "images/198727.jpg",
   "color": "#bbe4f1",
-  "status": "NOT_YET_RELEASED",
-  "episodes": 13,
-  "duration": null,
+  "status": "RELEASING",
+  "episodes": 11,
+  "duration": 24,
   "genres": [
    "喜剧",
    "恋爱"
@@ -5958,6 +6504,10 @@ window.ANIME_DATA=[
     "cv": "安済知佳"
    },
    {
+    "role": "岩波蔵之介",
+    "cv": "阿座上洋平"
+   },
+   {
     "role": "東堂舞",
     "cv": "雨宮天"
    }
@@ -5966,8 +6516,8 @@ window.ANIME_DATA=[
   "synopsis": "就读县内首屈一指的升学学校——藤志高中的千岁朔。学业、运动、社交能力皆出类拔萃的他，总是众人的焦点，但其实他心中藏着一段未曾向人倾诉的过去。春天转瞬即逝，在交替的季节中，为了追求梦想、追寻心中渴望的景色，这群高中生全力以赴地挥洒仅有一次的「青春」。以福井为舞台，谱写出一片湛蓝、无比眩目且动人的青春故事，再次揭开新一章！",
   "synopsisLang": "zh",
   "synopsisSrc": "Bangumi 番组计划",
-  "score": null,
-  "popularity": 10773,
+  "score": 76,
+  "popularity": 14537,
   "coverRemote": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx198727-BL0JTpg0G8tq.jpg"
  },
  {
@@ -5992,7 +6542,7 @@ window.ANIME_DATA=[
   "dateConflict": false,
   "cover": "images/179876.jpg",
   "color": "#286ba1",
-  "status": "NOT_YET_RELEASED",
+  "status": "RELEASING",
   "episodes": 11,
   "duration": null,
   "genres": [
@@ -6063,8 +6613,8 @@ window.ANIME_DATA=[
   "synopsis": "世界的に圧倒的な人気を誇るeスポーツ「ダークマシン」は人々を熱狂させ、日本の経済体系までも変革していた。\n日本で唯一、「ダークマシン」経済特区に指定されている街・ゴールデンバレー。その頂点に君臨するのが、「ダークマシン」最強プレイヤーの称号『千鬼』を襲名している7代目『千鬼』のアジマだった。\nアジマは「ダークマシン」によってゴールデンバレーを実質的支配する存在となっていた。主人公のカイリは、亡き祖父の遺言「千鬼を探せ」を胸にゴールデンバレーを訪れたところ、偶然アジマ配下の「阿流堕美瑠」に追われる少女「ルドラ」と出会う。\nルドラに巻き込まれる形で「ダークマシン」プレイヤーとなったカイリは、度重なる激戦の末、徐々にその才能を開花させていく。カイリは『千鬼』と対峙し、運命を切り開けるのかー。\n「ダークマシン」の頂点を目指すカイリの戦いが今、始まる。",
   "synopsisLang": "ja",
   "synopsisSrc": "Bangumi 番组计划",
-  "score": null,
-  "popularity": 1571,
+  "score": 51,
+  "popularity": 2674,
   "coverRemote": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx179876-Wg62CAzp5WQ1.jpg"
  },
  {
@@ -6089,9 +6639,9 @@ window.ANIME_DATA=[
   "dateConflict": false,
   "cover": "images/199340.jpg",
   "color": "#5da1f1",
-  "status": "NOT_YET_RELEASED",
+  "status": "FINISHED",
   "episodes": 1,
-  "duration": null,
+  "duration": 118,
   "genres": [
    "剧情",
    "心理",
@@ -6148,8 +6698,8 @@ window.ANIME_DATA=[
   "synopsis": "「実は、私が霧島透子なんです」\n謎に包まれた大人気ネットシンガーの正体は国民的女優の桜島麻衣だった――と、沸き立つ観客たち。その光景は梓川咲太がクリスマスイブに見た夢と同じ――。\n4月1日、麻衣の衝撃の告白を皮切りにかつて皆が夢で見たあり得ない出来事が次々と起こり続ける。\n見た夢が正夢になるSNSの書き込み「＃夢見る」の存在も消え、目の前の現実と自分の認識が食い違う咲太のもとに、もう一つの可能性の世界の咲太からメッセージが届く。\n――霧島透子を止めてくれ\n――現実が書き換えられる前に\n書き換えられた世界を元に戻すため、咲太は霧島透子を探す。\nこれは、思春期症候群を乗り越える物語――",
   "synopsisLang": "ja",
   "synopsisSrc": "Bangumi 番组计划",
-  "score": null,
-  "popularity": 31283,
+  "score": 82,
+  "popularity": 34160,
   "coverRemote": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx199340-YQlmzvmcJzyt.jpg"
  },
  {
@@ -6174,9 +6724,9 @@ window.ANIME_DATA=[
   "dateConflict": false,
   "cover": "images/197543.png",
   "color": "#4393e4",
-  "status": "NOT_YET_RELEASED",
+  "status": "FINISHED",
   "episodes": 1,
-  "duration": null,
+  "duration": 56,
   "genres": [
    "剧情",
    "音乐"
@@ -6237,7 +6787,7 @@ window.ANIME_DATA=[
   "synopsisLang": "ja",
   "synopsisSrc": "Bangumi 番组计划",
   "score": null,
-  "popularity": 3345,
+  "popularity": 3684,
   "coverRemote": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx197543-UhIhht4Gku8z.png"
  },
  {
@@ -6260,11 +6810,11 @@ window.ANIME_DATA=[
   "weekday": 1,
   "bgmDate": "2026-10-20",
   "dateConflict": false,
-  "cover": "images/195539.jpg",
-  "color": "#1ac9e4",
-  "status": "NOT_YET_RELEASED",
+  "cover": "images/195539.png",
+  "color": "#fe286b",
+  "status": "FINISHED",
   "episodes": 10,
-  "duration": null,
+  "duration": 28,
   "genres": [
    "动作",
    "剧情",
@@ -6313,15 +6863,23 @@ window.ANIME_DATA=[
    {
     "role": "タリア・ヤン",
     "cv": "鬼頭明里"
+   },
+   {
+    "role": "ケイト・ミラー",
+    "cv": "塩田朋子"
+   },
+   {
+    "role": "アヴィダ・ヤン",
+    "cv": "岡村明美"
    }
   ],
   "synopsisJa": "『サイバーパンク: エッジランナーズ２』で、再びナイトシティへ。すべてを手に入れるか、すべてを失うか――半端を嫌う街で、新たな物語が始まる。かつて名を馳せた伝説的サイバーパンク、ウィーク。クロームと力を失い、時代に取り残された彼は、自らの存在意義を探す。一方、復讐の道を歩み始めたノーマッドのDは、本来決して明るみに出るはずのなかった企業の秘密に遭遇する。家族。執着。過去の呪縛と未来に託す思い。そして己の“レンズ”が周囲の人々をどのように映し出すのか。10話構成のオリジナルアニメーションシリーズで、新たなエッジランナーズの運命が走り出す。",
   "synopsis": "《赛博朋克：边缘行者2》把你带回夜之城。在那里，人与人的命运纠缠到了极致。昔日的赛博朋克传奇人物微克如今风光不再，不得不脱离义体活着，在这个对他熟视无睹的世界里寻找人生的意义。与此同时，手段狠辣的流浪者D踏上了复仇之路，也让他触及到了永远不该被外人发现的公司秘密。在这部总共十集的独立动画中，你将了解到一个关于家庭、执念、传承的故事——以及在你的镜头记录下，身边的人又会呈现出一个个怎样的故事。",
   "synopsisLang": "zh",
   "synopsisSrc": "Bangumi 番组计划",
-  "score": null,
-  "popularity": 72548,
-  "coverRemote": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx195539-jaarfaxv6K0Z.jpg"
+  "score": 85,
+  "popularity": 90685,
+  "coverRemote": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx195539-4LdfmKIHzuxr.png"
  },
  {
   "id": 217282,
@@ -6345,7 +6903,7 @@ window.ANIME_DATA=[
   "dateConflict": false,
   "cover": "images/217282.png",
   "color": "#febb50",
-  "status": "NOT_YET_RELEASED",
+  "status": "RELEASING",
   "episodes": 10,
   "duration": 5,
   "genres": [
@@ -6393,7 +6951,7 @@ window.ANIME_DATA=[
   "synopsisLang": "ja",
   "synopsisSrc": "Bangumi 番组计划",
   "score": null,
-  "popularity": 22,
+  "popularity": 40,
   "coverRemote": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx217282-fRAAhF2b5eIr.png"
  },
  {
@@ -6420,7 +6978,7 @@ window.ANIME_DATA=[
   "color": "#e4d643",
   "status": "NOT_YET_RELEASED",
   "episodes": 1,
-  "duration": null,
+  "duration": 71,
   "genres": [
    "冒险",
    "剧情",
@@ -6479,7 +7037,7 @@ window.ANIME_DATA=[
   "synopsisLang": "zh",
   "synopsisSrc": "Bangumi 番组计划",
   "score": null,
-  "popularity": 41744,
+  "popularity": 44063,
   "coverRemote": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx160275-cBOWJpcCGeMq.jpg"
  },
  {
@@ -6569,7 +7127,7 @@ window.ANIME_DATA=[
   "synopsisLang": "ja",
   "synopsisSrc": "Bangumi 番组计划",
   "score": null,
-  "popularity": 584,
+  "popularity": 642,
   "coverRemote": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx209642-qNj4Wz2hXTvi.jpg"
  },
  {
@@ -6655,7 +7213,7 @@ window.ANIME_DATA=[
   "synopsisLang": "ja",
   "synopsisSrc": "Bangumi 番组计划",
   "score": null,
-  "popularity": 9654,
+  "popularity": 10495,
   "coverRemote": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx190054-8h0AuqQjwcCL.png"
  }
 ];
