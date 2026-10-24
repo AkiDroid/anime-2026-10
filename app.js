@@ -5,6 +5,7 @@ const $=s=>document.querySelector(s);
 const esc=s=>String(s??'').replace(/[&<>"']/g,c=>({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[c]));
 const TBD='<span class="tbd">待定</span>';
 const state={q:'',wd:'',kind:'',fmt:'',genre:'',sort:'date-asc',view:'grid'};
+(function(){const el=document.getElementById('collectedAt');if(el&&window.ANIME_META&&ANIME_META.collectedAt)el.textContent=ANIME_META.collectedAt;})();
 const wdOf=d=>new Date(d+'T00:00:00Z').getUTCDay();
 const cn=['日','一','二','三','四','五','六'];
 function fmtDate(iso){if(!iso)return null;const [y,m,d]=iso.split('-');return `${+m}月${+d}日（${cn[wdOf(iso)]}）`}
